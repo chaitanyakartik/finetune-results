@@ -1,0 +1,1962 @@
+QWEN35_BATCH4 BENCHMARK ERRORS — MANUAL VERIFICATION
+================================================================================
+
+================================================================================
+FIELD: name  (46 errors)
+================================================================================
+  File : Color Aadhar Ruby_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Color Aadhar Ruby_page1.jpg
+  GT   : Ruby Tripathi
+  PRED : None
+  Sim  : 0.000
+
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : A. Kirubhanandan
+  PRED : None
+  Sim  : 0.000
+
+  File : SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  GT   : Panchal Sharadaben
+  PRED : None
+  Sim  : 0.000
+
+  File : SUBRAMANI AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUBRAMANI AADHAR_page1.jpg
+  GT   : Subramani
+  PRED : None
+  Sim  : 0.000
+
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : Satish Chandra Joshi
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : Gupta Ankur Shyamprasad
+  PRED : None
+  Sim  : 0.000
+
+  File : Inkedmother aadhaar_LI.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Inkedmother aadhaar_LI.jpg
+  GT   : Chintamani Kewat
+  PRED : None
+  Sim  : 0.000
+
+  File : Gunjali Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Gunjali Aadhar_split_1_to_1_page1.jpg
+  GT   : Gunjali Verma
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : Banu P
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : Sneh Lata Gaur
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR MAMTA 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR MAMTA 1.jpg
+  GT   : Mamta Sharma
+  PRED : None
+  Sim  : 0.000
+
+  File : Anand Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT   : Anand Kumar Venkataswamy
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR JASWANT _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT   : Jaswant Singh Sandhu
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHARD SAHIL_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHARD SAHIL_page1.jpg
+  GT   : Sahil Khan
+  PRED : None
+  Sim  : 0.000
+
+  File : NIZAMUDHIN AADHAR 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/NIZAMUDHIN AADHAR 1.jpg
+  GT   : Nizamuddin R
+  PRED : None
+  Sim  : 0.000
+
+  File : Screenshot 2025-09-18 113048.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Screenshot 2025-09-18 113048.jpg
+  GT   : Riyaz Allaudin Lakhani
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : Huchappa P
+  PRED : None
+  Sim  : 0.000
+
+  File : SAYANTAN ADHARCARD_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT   : Sayantan Paul
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  GT   : Rabari Amratbhai
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : Jamruth Kani M R
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar Mila_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT   : Mila Victor
+  PRED : None
+  Sim  : 0.000
+
+  File : Addhar mahesh_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Addhar mahesh_split_1_to_1_page1.jpg
+  GT   : Mahesh Chauhan
+  PRED : None
+  Sim  : 0.000
+
+  File : POWER OF ETERNI __split_24_to_24_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/POWER OF ETERNI __split_24_to_24_page1.jpg
+  GT   : Koladia Parth Rameshbhai
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : Gaurav Jha
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : Samruddhi Prashant Limbhore
+  PRED : None
+  Sim  : 0.000
+
+  File : applicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/applicant aadhar_page1.jpg
+  GT   : Vijay Kumar Lodha N
+  PRED : None
+  Sim  : 0.000
+
+  File : addhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar_page1.jpg
+  GT   : DONALD TRUMP
+  PRED : None
+  Sim  : 0.000
+
+  File : _Sarla Saini Adhar Card First Side 1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Sarla Saini Adhar Card First Side 1_page1.jpg
+  GT   : Sarla Saini
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : S Murulesh
+  PRED : None
+  Sim  : 0.000
+
+  File : aadhar raja_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT   : Raja N
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : S.Anitha
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : Agrawal Vidhyaben
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : Shankar Mulgund
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : Nagaraja Reddiar S
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : Keerthivarman S
+  PRED : None
+  Sim  : 0.000
+
+  File : Kailash Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Kailash Aadhar_split_1_to_1_page1.jpg
+  GT   : Kailashnath Akbalanarayan Singh
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  GT   : P Samuthiram
+  PRED : None
+  Sim  : 0.000
+
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : Asha Prakash Bhanasali
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : Hemang Manmohandas Shanghvi
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : Madhava Krishna Jetty
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : Aruna Vijay
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : Rohan Vinay Pai
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : Shilpa Pankaj Mehta
+  PRED : None
+  Sim  : 0.000
+
+  File : APP UID MAXED_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+  GT   : Alagani Mahesh Goud
+  PRED : Alagani Maherh Gond
+  Sim  : 0.895
+
+  File : POWER OF ETERNI __split_22_to_23_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+  GT   : Rakhotiya Kishorkumar
+  PRED : Rakholiya Kishorkumar
+  Sim  : 0.952
+
+  File : aruna addhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aruna addhar card_page1.jpg
+  GT   : Boyi Aruna Kumari
+  PRED : Boyil Aruna Kumari
+  Sim  : 0.971
+
+
+================================================================================
+FIELD: dateOfBirth  (43 errors)
+================================================================================
+  File : Color Aadhar Ruby_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Color Aadhar Ruby_page1.jpg
+  GT   : 01/02/1975
+  PRED : None
+  Sim  : 0.000
+
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : 20/05/1984
+  PRED : None
+  Sim  : 0.000
+
+  File : SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  GT   : 01/01/1961
+  PRED : None
+  Sim  : 0.000
+
+  File : SUBRAMANI AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUBRAMANI AADHAR_page1.jpg
+  GT   : 02/02/1977
+  PRED : None
+  Sim  : 0.000
+
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : 01/07/1988
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : 19/10/1987
+  PRED : None
+  Sim  : 0.000
+
+  File : Inkedmother aadhaar_LI.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Inkedmother aadhaar_LI.jpg
+  GT   : 01/06/1966
+  PRED : None
+  Sim  : 0.000
+
+  File : Gunjali Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Gunjali Aadhar_split_1_to_1_page1.jpg
+  GT   : 10/04/1986
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : 30/09/1997
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : 1956
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR MAMTA 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR MAMTA 1.jpg
+  GT   : 23/04/1991
+  PRED : None
+  Sim  : 0.000
+
+  File : Anand Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT   : 20/09/1978
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR JASWANT _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT   : 16/02/1945
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHARD SAHIL_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHARD SAHIL_page1.jpg
+  GT   : 10/10/1997
+  PRED : None
+  Sim  : 0.000
+
+  File : NIZAMUDHIN AADHAR 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/NIZAMUDHIN AADHAR 1.jpg
+  GT   : 08/04/1969
+  PRED : None
+  Sim  : 0.000
+
+  File : Screenshot 2025-09-18 113048.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Screenshot 2025-09-18 113048.jpg
+  GT   : 05/02/1973
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : 05/04/1958
+  PRED : None
+  Sim  : 0.000
+
+  File : SAYANTAN ADHARCARD_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT   : 13/12/1991
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  GT   : 11/05/1965
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : 12/11/1982
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar Mila_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT   : 1962
+  PRED : None
+  Sim  : 0.000
+
+  File : Addhar mahesh_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Addhar mahesh_split_1_to_1_page1.jpg
+  GT   : 28/01/1970
+  PRED : None
+  Sim  : 0.000
+
+  File : POWER OF ETERNI __split_24_to_24_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/POWER OF ETERNI __split_24_to_24_page1.jpg
+  GT   : 18/09/1991
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : 27/05/1997
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : 11/02/2001
+  PRED : None
+  Sim  : 0.000
+
+  File : applicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/applicant aadhar_page1.jpg
+  GT   : 05/05/1986
+  PRED : None
+  Sim  : 0.000
+
+  File : addhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar_page1.jpg
+  GT   : 01/01/1980
+  PRED : None
+  Sim  : 0.000
+
+  File : _Sarla Saini Adhar Card First Side 1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Sarla Saini Adhar Card First Side 1_page1.jpg
+  GT   : 05/05/1983
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : 25/05/1971
+  PRED : None
+  Sim  : 0.000
+
+  File : aadhar raja_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT   : 13/04/1963
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : 06/04/1983
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : 01/01/1959
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : 01/06/1989
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : 1946
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : 05/02/1965
+  PRED : None
+  Sim  : 0.000
+
+  File : Kailash Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Kailash Aadhar_split_1_to_1_page1.jpg
+  GT   : 1957
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  GT   : 25/10/1959
+  PRED : None
+  Sim  : 0.000
+
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : 1960
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : 31/03/1966
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : 25/11/1986
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : 23/06/1986
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : 01/12/1979
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : 07/12/1967
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: gender  (43 errors)
+================================================================================
+  File : Color Aadhar Ruby_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Color Aadhar Ruby_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : SUBRAMANI AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUBRAMANI AADHAR_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Inkedmother aadhaar_LI.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Inkedmother aadhaar_LI.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : Gunjali Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Gunjali Aadhar_split_1_to_1_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR MAMTA 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR MAMTA 1.jpg
+  GT   : FEMALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Anand Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR JASWANT _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHARD SAHIL_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHARD SAHIL_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : NIZAMUDHIN AADHAR 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/NIZAMUDHIN AADHAR 1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Screenshot 2025-09-18 113048.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Screenshot 2025-09-18 113048.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : SAYANTAN ADHARCARD_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar Mila_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : Addhar mahesh_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Addhar mahesh_split_1_to_1_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : POWER OF ETERNI __split_24_to_24_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/POWER OF ETERNI __split_24_to_24_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : applicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/applicant aadhar_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : addhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : _Sarla Saini Adhar Card First Side 1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Sarla Saini Adhar Card First Side 1_page1.jpg
+  GT   : FEMALE
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : aadhar raja_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : FEMALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : FEMALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : Kailash Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Kailash Aadhar_split_1_to_1_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : MALE
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : FEMALE
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: aadharNumber  (49 errors)
+================================================================================
+  File : Adhar - Pinanlal s_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhar - Pinanlal s_page2.jpg
+  GT   : 9971
+  PRED : None
+  Sim  : 0.000
+
+  File : Color Aadhar Ruby_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Color Aadhar Ruby_page1.jpg
+  GT   : 3615
+  PRED : None
+  Sim  : 0.000
+
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : 2565
+  PRED : None
+  Sim  : 0.000
+
+  File : SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SHARDABEN AADHAR_split_1_to_1_page1.jpg
+  GT   : 6418
+  PRED : None
+  Sim  : 0.000
+
+  File : SUBRAMANI AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUBRAMANI AADHAR_page1.jpg
+  GT   : 0812
+  PRED : None
+  Sim  : 0.000
+
+  File : SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  GT   : 0808
+  PRED : None
+  Sim  : 0.000
+
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : 3617
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : 7059
+  PRED : None
+  Sim  : 0.000
+
+  File : Inkedmother aadhaar_LI.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Inkedmother aadhaar_LI.jpg
+  GT   : 3123
+  PRED : None
+  Sim  : 0.000
+
+  File : Gunjali Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Gunjali Aadhar_split_1_to_1_page1.jpg
+  GT   : 5872
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : 0262
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : 6843
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR MAMTA 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR MAMTA 1.jpg
+  GT   : 6640
+  PRED : None
+  Sim  : 0.000
+
+  File : Anand Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT   : 7952
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR JASWANT _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT   : 9779
+  PRED : None
+  Sim  : 0.000
+
+  File : KARTHIK AADHAR_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_page2.jpg
+  GT   : 2804
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHARD SAHIL_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHARD SAHIL_page1.jpg
+  GT   : 6844
+  PRED : None
+  Sim  : 0.000
+
+  File : NIZAMUDHIN AADHAR 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/NIZAMUDHIN AADHAR 1.jpg
+  GT   : 6890 4948 5123
+  PRED : None
+  Sim  : 0.000
+
+  File : Screenshot 2025-09-18 113048.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Screenshot 2025-09-18 113048.jpg
+  GT   : 1944
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : 7361
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  GT   : 4745 6512 1881
+  PRED : None
+  Sim  : 0.000
+
+  File : SAYANTAN ADHARCARD_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT   : 6286
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/BANAKHAT RAD LEKH._split_76_to_76_page1.jpg
+  GT   : 8185 5127 1642
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : 5527
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar Mila_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT   : 6807
+  PRED : None
+  Sim  : 0.000
+
+  File : Addhar mahesh_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Addhar mahesh_split_1_to_1_page1.jpg
+  GT   : 7346
+  PRED : None
+  Sim  : 0.000
+
+  File : POWER OF ETERNI __split_24_to_24_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/POWER OF ETERNI __split_24_to_24_page1.jpg
+  GT   : 3666 4749 7653
+  PRED : None
+  Sim  : 0.000
+
+  File : SABANA AATAHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SABANA AATAHAR_split_2_to_2_page1.jpg
+  GT   : 2317
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : 5466
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : 7532
+  PRED : None
+  Sim  : 0.000
+
+  File : applicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/applicant aadhar_page1.jpg
+  GT   : 8624
+  PRED : None
+  Sim  : 0.000
+
+  File : addhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar_page1.jpg
+  GT   : 1234 5678 9012
+  PRED : None
+  Sim  : 0.000
+
+  File : SONALI -ADHAR.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SONALI -ADHAR.jpg
+  GT   : 4010 6248 9200
+  PRED : None
+  Sim  : 0.000
+
+  File : _Sarla Saini Adhar Card First Side 1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Sarla Saini Adhar Card First Side 1_page1.jpg
+  GT   : 9463
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : 5809
+  PRED : None
+  Sim  : 0.000
+
+  File : aadhar raja_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT   : 9986
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : 1827
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : 2762
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : 6597
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : 1140
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : 1572
+  PRED : None
+  Sim  : 0.000
+
+  File : Kailash Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Kailash Aadhar_split_1_to_1_page1.jpg
+  GT   : 3320
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Aadhar- Samuthiram_split_1_to_1_page1.jpg
+  GT   : 5521 7499 4417
+  PRED : None
+  Sim  : 0.000
+
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : 7650
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : 8348
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : 6369
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : 4064
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : 4596
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : 9815
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: address  (39 errors  (char_sim < 0.7 only))
+================================================================================
+  File : Adhar - Pinanlal s_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhar - Pinanlal s_page2.jpg
+  GT   : S/O Parmanand Mandhwani, 34, Gopal Bagh, Manik Bagh Road, Indore, Indore G.P., Madhya Pradesh, 452001
+  PRED : None
+  Sim  : 0.000
+
+  File : Color Aadhar Ruby_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Color Aadhar Ruby_page1.jpg
+  GT   : W/O: Pawan Tripathi, B-166, palace orchard, near vishal mega mart, kolar road, Huzur, Bhopal, Kolar Road, Madhya Pradesh, 462042
+  PRED : None
+  Sim  : 0.000
+
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : S/O Ayyasami, A206, Adithya Garden Apartment, Lavakusha Nagar,, Audi Show Room, Hosa Road,, Beratena Agrahara, Bengaluru, Karnataka - 560100
+  PRED : None
+  Sim  : 0.000
+
+  File : SUBRAMANI AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUBRAMANI AADHAR_page1.jpg
+  GT   : S/O: Ramasamy, 97H/18, PR COMPLEX, NEW BUS STAND, Perambalur, Perambalur, Tamil Nadu, 621212
+  PRED : None
+  Sim  : 0.000
+
+  File : SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  GT   : C/O: Satnarayan, 397/7, Firni Road, Garhi Kesri, Ward No 7, Ganaur, Sonipat, Haryana - 131101
+  PRED : None
+  Sim  : 0.000
+
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : FLAT NO. A1005, SAI VIHAR CHS, SECTOR 15 CBD BELAPUR, VTC: Navi Mumbai, PO: Konkan Bhavan, District: Thane, State: Maharashtra, PIN Code: 400614
+  PRED : None
+  Sim  : 0.000
+
+  File : Kailash Aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Kailash Aadhar_split_2_to_2_page1.jpg
+  GT   : S/O Akbalanarayan Singh, Flot No,503-E, C-wing 108 Shiv Shreelan co op Hsg so, Mumbai, Maharashtra, 400089
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : 18, Tirupati Asian Greenz, Sadatpura, PO: Sapawada, DIST: Sabarkantha, Gujarat - 383430
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : C/o N Madasamy, Old no 23 New no 61, Adam sahib street, Royapuram, Royapuram, PO:Royapuram, DIST:Chennai, Tamil Nadu, 600013
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : W/O Daya Nand Gaur, 81 Basant Gaon, Vasant Vihar, South West Delhi, Delhi, 110057
+  PRED : None
+  Sim  : 0.000
+
+  File : Anand Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT   : S/O: K . S . Venkataswamy, # 7, 5th Cross, Dayanand Layout, Ramamurthy Nagar, Bangalore North, PO: Doorvaninagar, DIST: Bengaluru, Karnataka - 560016
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR JASWANT _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT   : 256 1st floor, block-c-2, janak puri, Janakpuri B-1, Janakpuri B-1, West Delhi, Delhi, 110058
+  PRED : None
+  Sim  : 0.000
+
+  File : KARTHIK AADHAR_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_page2.jpg
+  GT   : C/O: Vallamkonda Prakash, 8-1-328/1/2 Flat No-2303, A Block Sattva Magnus, Opp Passport Office, Shaikpet, Golconda, Hyderabad, Telangana - 500008
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHARD SAHIL_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHARD SAHIL_page1.jpg
+  GT   : S/O Hannan Ali Khan, Bhandaria, Paschim Chamni, South Twenty Four Parganas, West Bengal, 743503
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : S/O: Dodda Siddappa, S S Road, Behind Marikamba temple, shikaripur, Shikarpur, PO: Shikaripur, DIST: Shimoga, Karnataka - 577427
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  GT   : S/O: Bhikhabhai, B/31, Nilkanth Society, Ramrajaynagar, amaraivadi, Ahmedabad City, Ahmedabad, Gujarat - 380026
+  PRED : None
+  Sim  : 0.000
+
+  File : SAYANTAN ADHARCARD_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT   : S/O: Naresh Paul, 347/3/4, dum dum road, South Dumdum (m), North 24 Parganas, Motijheel, West Bengal, 700074
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : W/O: Mohamed Rafik, 9B, Mohamed Ali Street, Kamaraj nagar, Tiruchirappalli, Ariyamangalam, Tamil Nadu, 620010
+  PRED : None
+  Sim  : 0.000
+
+  File : Babu Lal Aadhaar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Babu Lal Aadhaar_split_1_to_1_page1.jpg
+  GT   : S/O: Chuna Ram, gangai nagar, Barmer, Barmer, Rajasthan, 344001
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar Mila_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT   : W/O Victor Bastin V S, 44/1672 Vadassery, Puthiya Road, Kaloor, Kaloor North, Ernakulam, Kerala, 682017
+  PRED : None
+  Sim  : 0.000
+
+  File : SABANA AATAHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SABANA AATAHAR_split_2_to_2_page1.jpg
+  GT   : D/O: Jamalmydeen, 549/2, NATHAM, KANDASAMYNAGAR, velanpatti, Velanpatti, Dindigul, Tamil Nadu - 624401
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : 2, RAM LOCHAN MULLICK STREET, Chittaranjan Avenue, PO: Chittaranjan Avenue, DIST: Kolkata, West Bengal - 700073
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : Askhed Khurd., Pune, Maharashtra, 410501
+  PRED : None
+  Sim  : 0.000
+
+  File : applicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/applicant aadhar_page1.jpg
+  GT   : S/O: Navarathan Singh Lodha, NO 54, SESHACHALAM STREET, SAIDAPET, Saidapet, Chennai, Saidapet, Tamil Nadu, 600015
+  PRED : None
+  Sim  : 0.000
+
+  File : addhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar_page1.jpg
+  GT   : 0000 Colony, 00pur, India
+  PRED : None
+  Sim  : 0.000
+
+  File : SONALI -ADHAR.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SONALI -ADHAR.jpg
+  GT   : kamewadi, Talegaon Dhamdhere, Pune, Talegaon Dhamdhere, Maharashtra, 412208
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : S/O Sonnamarappa, #57, Doddabettahalli, Bangalore North, Vidyaranyapura, Bangalore, Karnataka, 560097
+  PRED : None
+  Sim  : 0.000
+
+  File : aadhar raja_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT   : S/O: Natesan, 5/7, SAMIYAR THOTTAM, VILLIVAKKAM, Villivakkam, Tiruvallur, Tamil Nadu, 600049
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : C/O: A Vijay Mohan, 161, PACHIYAMMAN KOVIL STREET, GUGAI, Salem, PO: Salem South, DIST: Salem, Tamil Nadu - 636006
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : W/O : Mohanlal, 00 , Agarwal Mohalla, Shitla Chowk , Modi vass, Sumerpur, Pali, Rajasthan, 306902
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : S/O Shivappa, Manjunath Nagar, P B Road, betageri, Gadag *, Karnataka - 582102
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : S/O: Sreenivasa Reddiar, 14/1044, Lakshmi Sadanam, Mullakkal Ward, Muliakkai (part), Alappuzha, Kerala 688011
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : S/O Selvamani, NO4/1, SAYAKARA STREET, PALLAMANGALAM, Tirukalukundram, PO: Tirukalukundram, DIST: Kancheepuram, Tamil Nadu - 603109
+  PRED : None
+  Sim  : 0.000
+
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : W/O Prakash Bhanasali, Basant moti bag, Wada Road, Rajgurunagar, Pune, Maharashtra 410505
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : S/O: Manmohandas, 7, hatkesh society, sharda school lane,near ishwar bhuvan, navjivan, Ahmedabad City, PO: Navjivan, DIST: Ahmedabad, Gujarat - 380014
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : S/O J Naga Bhushanam, DO NO 44-13/1-1/1A, KARMIL NAGAR, GUNADALA, BUDAMERU BRIDGE, Vijayawada (Urban), Krishna, Andhra Pradesh - 520004
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : W/O: Vijay Kumar Lodha, NO 54, SESHACHALAM STREET, Saidapet, PO: Saidapet, DIST: Chennai, Tamil Nadu - 600015
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : Flat No-35, Swagat Apartments, Sahawas Society, Karvenagar, Behind Umesh Super Market, Pune City, Pune, Maharashtra - 411052
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : W/O: Pankaj Mehta, Flat No 301, 30 th Floor, Jupiter Apartments, 41 Cuffe Parade, Near Taj President Hotel, Cuffe Parade, Mumbai, Mumbai, Maharashtra - 400005
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: pincode  (38 errors)
+================================================================================
+  File : Adhar - Pinanlal s_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhar - Pinanlal s_page2.jpg
+  GT   : 452001
+  PRED : None
+  Sim  : 0.000
+
+  File : Color Aadhar Ruby_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Color Aadhar Ruby_page1.jpg
+  GT   : 462042
+  PRED : None
+  Sim  : 0.000
+
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : 560100
+  PRED : None
+  Sim  : 0.000
+
+  File : SUBRAMANI AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUBRAMANI AADHAR_page1.jpg
+  GT   : 621212
+  PRED : None
+  Sim  : 0.000
+
+  File : SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  GT   : 131101
+  PRED : None
+  Sim  : 0.000
+
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : 400614
+  PRED : None
+  Sim  : 0.000
+
+  File : Kailash Aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Kailash Aadhar_split_2_to_2_page1.jpg
+  GT   : 400089
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : 383430
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : 600013
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : 110057
+  PRED : None
+  Sim  : 0.000
+
+  File : Anand Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT   : 560016
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR JASWANT _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT   : 110058
+  PRED : None
+  Sim  : 0.000
+
+  File : KARTHIK AADHAR_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_page2.jpg
+  GT   : 500008
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHARD SAHIL_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHARD SAHIL_page1.jpg
+  GT   : 743503
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : 577427
+  PRED : None
+  Sim  : 0.000
+
+  File : BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  GT   : 380026
+  PRED : None
+  Sim  : 0.000
+
+  File : SAYANTAN ADHARCARD_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT   : 700074
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : 620010
+  PRED : None
+  Sim  : 0.000
+
+  File : Babu Lal Aadhaar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Babu Lal Aadhaar_split_1_to_1_page1.jpg
+  GT   : 344001
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhar Mila_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT   : 682017
+  PRED : None
+  Sim  : 0.000
+
+  File : SABANA AATAHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SABANA AATAHAR_split_2_to_2_page1.jpg
+  GT   : 624401
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : 700073
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : 410501
+  PRED : None
+  Sim  : 0.000
+
+  File : applicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/applicant aadhar_page1.jpg
+  GT   : 600015
+  PRED : None
+  Sim  : 0.000
+
+  File : SONALI -ADHAR.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SONALI -ADHAR.jpg
+  GT   : 412208
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : 560097
+  PRED : None
+  Sim  : 0.000
+
+  File : aadhar raja_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT   : 600049
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : 636006
+  PRED : None
+  Sim  : 0.000
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : 306902
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : 582102
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : 689011
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : 603109
+  PRED : None
+  Sim  : 0.000
+
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : 410505
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : 380014
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : 520004
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : 600015
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : 411052
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : 400005
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: mobileNumber  (18 errors)
+================================================================================
+  File : _SATISH AADHAR-1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT   : 9321047366
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR ANKUR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT   : 9998000110
+  PRED : None
+  Sim  : 0.000
+
+  File : Gunjali Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Gunjali Aadhar_split_1_to_1_page1.jpg
+  GT   : 9760014384
+  PRED : None
+  Sim  : 0.000
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : 9094900586
+  PRED : None
+  Sim  : 0.000
+
+  File : APP UID MAXED_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+  GT   : 8333883599
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR MAMTA 1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR MAMTA 1.jpg
+  GT   : 9458534880
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR HUCHAPPA_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR HUCHAPPA_page1.jpg
+  GT   : 9448914607
+  PRED : None
+  Sim  : 0.000
+
+  File : GAURAV AADHAAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/GAURAV AADHAAR_page1.jpg
+  GT   : 9038491233
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : 9945201545
+  PRED : None
+  Sim  : 0.000
+
+  File : ANITHA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITHA AADHAR_page1.jpg
+  GT   : 9944154556
+  PRED : None
+  Sim  : 0.000
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : 9964289913
+  PRED : None
+  Sim  : 0.000
+
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : 9847055665
+  PRED : None
+  Sim  : 0.000
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : 9443247387
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : 9824083935
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : 8885550848
+  PRED : None
+  Sim  : 0.000
+
+  File : coapplicant aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+  GT   : 9840364934
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : 9890997310
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : 9820058625
+  PRED : None
+  Sim  : 0.000
+

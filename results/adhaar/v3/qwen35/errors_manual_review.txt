@@ -1,0 +1,395 @@
+QWEN3.5 BENCHMARK ERRORS — MANUAL VERIFICATION
+================================================================================
+
+================================================================================
+FIELD: name  (8 errors)
+================================================================================
+  File : APP UID MAXED_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/APP UID MAXED_page1.jpg
+  GT   : Alagani Mahesh Goud
+  PRED : Alagani Mahesh Gond
+  Sim  : 0.947
+
+  File : POWER OF ETERNI __split_22_to_23_page1.jpg --PRED CORRECT
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+  GT   : Dudhat Bhailalbhai
+  PRED : Rakholiya Kishorkumar
+  Sim  : 0.103
+
+  File : KARTHIK AADHAR_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/KARTHIK AADHAR_page2.jpg
+  GT   : Vallamkonda Prakash
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : Samruddhi Prashant Limbhore
+  PRED : Samrudhi Prashant Limbhore
+  Sim  : 0.981
+
+  File : AADHAR - SHOKAT_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/AADHAR - SHOKAT_page1.jpg
+  GT   : Vaah Kongath MUNEL MASHKIR
+  PRED : Vaah Konath MUNEL MASHKIR
+  Sim  : 0.980
+
+  File : aruna addhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/aruna addhar card_page1.jpg
+  GT   : Boyi Aruna Kumari
+  PRED : BOY ARUNA KUMARI
+  Sim  : 0.970
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : Keerthivarman S
+  PRED : Keerthivarma S
+  Sim  : 0.966
+
+  File : maheshbhai_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/maheshbhai_split_2_to_2_page1.jpg
+  GT   : Tibadiya Mahesh Kanubhai
+  PRED : Thadikya Mahesh Kanubhai
+  Sim  : 0.917
+
+
+================================================================================
+FIELD: dateOfBirth  (1 errors)
+================================================================================
+  File : aruna addhar card_page1.jpg --PRED CORRECT
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/aruna addhar card_page1.jpg
+  GT   : 02/11/1992
+  PRED : 02/11/1982
+  Sim  : 0.900
+
+
+================================================================================
+FIELD: gender  (1 errors)
+================================================================================
+  File : Asha Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Asha Aadhar Card_page1.jpg
+  GT   : Female
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: aadharNumber  (28 errors)
+================================================================================
+  File : Applica - Aadahar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Applica - Aadahar_page1.jpg
+  GT   : 2565
+  PRED : 9172 4644 6996 0792
+  Sim  : 0.143
+
+  File : COMPANY PARTNERSHIP DEED_split_5_to_6_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/COMPANY PARTNERSHIP DEED_split_5_to_6_page2.jpg
+  GT   : 5388 3906 6418
+  PRED : 6418
+  Sim  : 0.500
+
+  File : SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+  GT   : 0808
+  PRED : None
+  Sim  : 0.000
+
+  File : Inkedmother aadhaar_LI.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Inkedmother aadhaar_LI.jpg
+  GT   : 3123
+  PRED : 9178 1121 8501 0462
+  Sim  : 0.143
+
+  File : Sahil Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Sahil Adhar_page1.jpg
+  GT   : 3785
+  PRED : 3785 489 5215
+  Sim  : 0.348
+
+  File : Banu Aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Banu Aadhar_page1.jpg
+  GT   : 0262
+  PRED : 0262
+  Sim  : 0.500
+
+  File : AADHAR SNEH _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/AADHAR SNEH _page1.jpg
+  GT   : 6843
+  PRED : None
+  Sim  : 0.000
+
+  File : KIRAN - AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/KIRAN - AADHAR_split_1_to_1_page1.jpg
+  GT   : 7758
+  PRED : XXXX XXXX ####
+  Sim  : 0.800
+
+  File : POWER OF ETERNI __split_22_to_23_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+  GT   : 8395 8612 7246
+  PRED : 4058 6244 8637
+  Sim  : 0.500
+
+  File : KARTHIK AADHAR_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/KARTHIK AADHAR_page2.jpg
+  GT   : 2804
+  PRED : None
+  Sim  : 0.000
+
+  File : Screenshot 2025-09-18 113048.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Screenshot 2025-09-18 113048.jpg
+  GT   : 1944
+  PRED : XXXX XXXX ####
+  Sim  : 0.800
+
+  File : BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/BANAKHAT RAD LEKH._split_14_to_14_page1.jpg
+  GT   : 4745 6512 1881
+  PRED : None
+  Sim  : 0.000
+
+  File : Co App Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Co App Adhar_page1.jpg
+  GT   : 1825
+  PRED : None
+  Sim  : 0.000
+
+  File : Jamruth Aadhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Jamruth Aadhar card_page1.jpg
+  GT   : 5527
+  PRED : None
+  Sim  : 0.000
+
+  File : _W - AADHAR MASKED NEW_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/_W - AADHAR MASKED NEW_page1.jpg
+  GT   : 9554
+  PRED : 9554
+  Sim  : 0.500
+
+  File : SABANA AATAHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/SABANA AATAHAR_split_2_to_2_page1.jpg
+  GT   : 2317
+  PRED : None
+  Sim  : 0.000
+
+  File : ADHAR - vasantben_page2.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/ADHAR - vasantben_page2.jpg
+  GT   : 8772
+  PRED : None
+  Sim  : 0.000
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : 7532
+  PRED : XXXX XXXX ####
+  Sim  : 0.800
+
+  File : _Sarla Saini Adhar Card First Side 1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/_Sarla Saini Adhar Card First Side 1_page1.jpg
+  GT   : 9463
+  PRED : 9463
+  Sim  : 0.500
+
+  File : PRADIP ADHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+  GT   : 2151
+  PRED : 21151
+  Sim  : 0.471
+
+  File : AADHAR - SHOKAT_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/AADHAR - SHOKAT_page1.jpg
+  GT   : 4544
+  PRED : XXXX XXXX ####
+  Sim  : 0.800
+
+  File : aruna addhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/aruna addhar card_page1.jpg
+  GT   : 9695
+  PRED : 9695 237 4918
+  Sim  : 0.348
+
+  File : Aadhaar Vidhyaben_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+  GT   : 2762
+  PRED : 2762
+  Sim  : 0.500
+
+  File : Kailash Aadhar_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Kailash Aadhar_split_1_to_1_page1.jpg
+  GT   : 3320
+  PRED : None
+  Sim  : 0.000
+
+  File : BP-30M28_20251017_113622_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/BP-30M28_20251017_113622_split_2_to_2_page1.jpg
+  GT   : 4437
+  PRED : 4437
+  Sim  : 0.500
+
+  File : AADHAR - HEMAL_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/AADHAR - HEMAL_split_1_to_1_page1.jpg
+  GT   : 7438
+  PRED : 7438
+  Sim  : 0.500
+
+  File : maheshbhai_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/maheshbhai_split_2_to_2_page1.jpg
+  GT   : 6950
+  PRED : 6950 XXXX XXXX
+  Sim  : 0.667
+
+  File : sarwani devi_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/sarwani devi_split_1_to_1_page1.jpg
+  GT   : 5022
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: pincode  (2 errors)
+================================================================================
+  File : POWER OF ETERNI __split_22_to_23_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+  GT   : 382345
+  PRED : 380058
+  Sim  : 0.500
+
+  File : PRADIP ADHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+  GT   : 382475
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: mobileNumber  (11 errors)
+================================================================================
+  File : TR - AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/TR - AADHAR_page1.jpg
+  GT   : 9952095299
+  PRED : None
+  Sim  : 0.000
+
+  File : konka vanamala aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/konka vanamala aadhar_page1.jpg
+  GT   : 9701093828
+  PRED : 913494738222
+  Sim  : 0.455
+
+  File : APP UID MAXED_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/APP UID MAXED_page1.jpg
+  GT   : 8333883599
+  PRED : None
+  Sim  : 0.000
+
+  File : _W - AADHAR MASKED NEW_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/_W - AADHAR MASKED NEW_page1.jpg
+  GT   : 9952095299
+  PRED : None
+  Sim  : 0.000
+
+  File : S Marulesh Adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT   : 9945201545
+  PRED : None
+  Sim  : 0.000
+
+  File : aruna addhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/aruna addhar card_page1.jpg
+  GT   : 9398380117
+  PRED : 96952374918
+  Sim  : 0.381
+
+  File : Shankar Mulagund Aadhar with OSV _page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Shankar Mulagund Aadhar with OSV _page1.jpg
+  GT   : 9964289913
+  PRED : None
+  Sim  : 0.000
+
+  File : Hemang Aadhar Card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT   : 9824083935
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : 8885550848
+  PRED : None
+  Sim  : 0.000
+
+  File : AADHAR ROHAN_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT   : 9890997310
+  PRED : None
+  Sim  : 0.000
+
+  File : SHILPA AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT   : 9820058625
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: address  (1 errors (char_sim < 0.7 only))
+================================================================================
+  File : PRADIP ADHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+  GT   : S/O: Lakhmichand, 223, Samarth Nagar Society, Ahmedabad, Sardarnagar, Ahmedabad City, Ahmedabad, Gujarat - 382475
+  PRED : None
+  Sim  : 0.000
+
+

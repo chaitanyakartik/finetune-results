@@ -1,0 +1,59 @@
+PRED Correct?,Field,GT,Pred,Image
+N,aadharNumber,XXXX XXXX 9971,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhar - Pinanlal s_page2.jpg
+N,aadharNumber,XXXX XXXX 2565,9172 4644 6996 0792,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Applica - Aadahar_page1.jpg
+Y,aadharNumber,5388 3906 6418,6418,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/COMPANY PARTNERSHIP DEED_split_5_to_6_page2.jpg
+,aadharNumber,XXXX XXXX 0808,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SATYANARAYAN AADHAR_split_1_to_1_page1.jpg
+,name,,Akbalanarayan Singh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Kailash Aadhar_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 3123,9178 1121 8501 0462,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Inkedmother aadhaar_LI.jpg
+,aadharNumber,3785 .... 5215,3785 489 5215,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Sahil Adhar_page1.jpg
+,aadharNumber,0262,0262,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+,name,Alagani Mahesh Goud,Alagani Maherh Gond,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+,aadharNumber,,8340,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+,pincode,500070,300070,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+,mobileNumber,9333883599,916331592589,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+,dateOfBirth,,1956,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SNEH _page1.jpg
+,aadharNumber,XXXX XXXX 7758,XXXX XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KIRAN - AADHAR_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 7952,7952,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+,mobileNumber,,911376138830,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+,name,Rakholiya Kishorkumar,Rakhotiya Kishorkumar,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+,mobileNumber,9825412306,9825412308,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+,name,Prabhakara B,Prabhalara B,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Prabhakar Aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 7308,7308,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KYC of Sonu Saluja_split_1_to_1_page1.jpg
+,name,Vallamkonda Prakash,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_page2.jpg
+,aadharNumber,XXXX XXXX 2804,9147 4144 9029 4402,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_page2.jpg
+,aadharNumber,XXXX XXXX 1944,1944 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Screenshot 2025-09-18 113048.jpg
+,dateOfBirth,,1985,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAAR YASODHA_page1.jpg
+,aadharNumber,,1825,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Co App Adhar_page1.jpg
+,aadharNumber,,5527,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamruth Aadhar card_page1.jpg
+,dateOfBirth,,1962,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+,aadharNumber,XXXX XXXX 9554,9554,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_W - AADHAR MASKED NEW_page1.jpg
+,name,,PIYUSH BHORTI,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR - vasantben_page2.jpg
+,dateOfBirth,,19/07/1997,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR - vasantben_page2.jpg
+,gender,,Male,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR - vasantben_page2.jpg
+,aadharNumber,XXXX XXXX 8772,8772 1234 5678,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR - vasantben_page2.jpg
+,mobileNumber,,9211012345,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR - vasantben_page2.jpg
+,name,Samruddhi Prashant Limbhore,Samrudhi Prashant Limbhore,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+,aadharNumber,XXXX XXXX 7532,7532,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+,dateOfBirth,,1954,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar jaswant_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 9463,9463,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Sarla Saini Adhar Card First Side 1_page1.jpg
+,name,,21151,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+,aadharNumber,,21151,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+,name,Vaah Kongath MUNEL MASHKIR,Vaah Konaath MUNEL MASHKIR,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR - SHOKAT_page1.jpg
+,gender,,Female,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR - SHOKAT_page1.jpg
+,aadharNumber,XXXXXXXX4544,XXXX XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR - SHOKAT_page1.jpg
+,name,Boyi Aruna Kumari,BOY ARUNA KUMARI,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aruna addhar card_page1.jpg
+,dateOfBirth,02/11/1992,02/11/1982,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aruna addhar card_page1.jpg
+,mobileNumber,9398380117,96952374918,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aruna addhar card_page1.jpg
+,aadharNumber,XXXX XXXX 2762,2762,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Vidhyaben_page1.jpg
+,dateOfBirth,,1946,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+,pincode,688011,689011,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+,dateOfBirth,,1957,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Kailash Aadhar_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 4437,4437,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BP-30M28_20251017_113622_split_2_to_2_page1.jpg
+,dateOfBirth,,1960,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Asha Aadhar Card_page1.jpg
+,aadharNumber,XXXX XXXX 4064,4064,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/coapplicant aadhar_page1.jpg
+,name,Tibadiya Mahesh Kanubhai,Thadikya Mahesh Kanubhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/maheshbhai_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 6950,6950 XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/maheshbhai_split_2_to_2_page1.jpg
+,address,,"Tibadiya Mahesh Kanubhai, %d4 d1s1u4, DOB: 22/06/1975",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/maheshbhai_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 4596,4596,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+,mobileNumber,9890997310,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+,aadharNumber,5022,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/sarwani devi_split_1_to_1_page1.jpg

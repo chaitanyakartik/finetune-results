@@ -1,0 +1,44 @@
+SEGMENTATION BENCHMARK (ENHANCED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (0)
+----------------------------------------------------------------------
+
+BOUNDARY ERRORS (73)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (30 cases)
+    property_ownership_docs                  × 8
+    gstr_form                                × 8
+    schedules_and_annexures                  × 4
+    rent_agreement                           × 2
+    title_search_report                      × 2
+    tax_audit_3CB_3CD                        × 1
+    shop_act_license                         × 1
+    gst_certificate                          × 1
+    certificate_of_incorporation             × 1
+    other_financial_doc                      × 1
+    tax_audit_3CA_3CD                        × 1
+
+  GT=True → PRED=False  (43 cases)
+    pnl_statement                            × 5
+    schedules_and_annexures                  × 5
+    balance_sheet                            × 4
+    notes_to_accounts                        × 4
+    municipal_mutation_record                × 4
+    other_financial_doc                      × 2
+    village_form_7_12                        × 2
+    property_revenue_docs                    × 2
+    itr_firm                                 × 2
+    other                                    × 1
+    bank_statement_of_account_SOA            × 1
+    rent_agreement                           × 1
+    photograph                               × 1
+    field_investigation_report               × 1
+    web_search_report                        × 1
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (4 cases)
+----------------------------------------------------------------------
+  village_form_7_12                        × 2
+  notes_to_accounts                        × 1
+  schedules_and_annexures                  × 1

@@ -1,0 +1,88 @@
+SEGMENTATION BENCHMARK — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (46)
+----------------------------------------------------------------------
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p47.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p48.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p49.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p50.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p51.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p52.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p53.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p54.png
+  [cibil_commercial                   ] /mnt/data/chaitanya/data/financial_data/images/cibil_commercial/81cde9d4_p8.png
+  [cibil_commercial                   ] /mnt/data/chaitanya/data/financial_data/images/cibil_commercial/81cde9d4_p9.png
+  [cibil_commercial                   ] /mnt/data/chaitanya/data/financial_data/images/cibil_commercial/81cde9d4_p10.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p65.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p66.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p67.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p68.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p69.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p70.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p71.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p72.png
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/499351f8_p2.png
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/499351f8_p3.png
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/499351f8_p4.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p65.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p66.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p67.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p68.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p69.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p70.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p71.png
+  [notes_to_accounts                  ] /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/1b0c1b36_p74.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/1ba357cb_p1.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/1ba357cb_p2.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/1ba357cb_p3.png
+  [pnl_statement                      ] /mnt/data/chaitanya/data/financial_data/images/pnl_statement/2978230a_p1.png
+  [emi_repayment_schedule             ] /mnt/data/chaitanya/data/financial_data/images/emi_repayment_schedule/ad0ee082_p1.png
+  [emi_repayment_schedule             ] /mnt/data/chaitanya/data/financial_data/images/emi_repayment_schedule/ad0ee082_p2.png
+  [email                              ] /mnt/data/chaitanya/data/financial_data/images/email/93fb415e_p1.png
+  [email                              ] /mnt/data/chaitanya/data/financial_data/images/email/93fb415e_p2.png
+  [disbursement_request_letter        ] /mnt/data/chaitanya/data/financial_data/images/disbursement_request_letter/cbf02ff7_p1.png
+  [disbursement_request_letter        ] /mnt/data/chaitanya/data/financial_data/images/disbursement_request_letter/6abcb450_p1.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/8a19b172_p1.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/8a19b172_p2.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/8a19b172_p3.png
+  [noc_financial_institution_docs     ] /mnt/data/chaitanya/data/financial_data/images/noc_financial_institution_docs/853d98a1_p1.png
+  [income_sheet                       ] /mnt/data/chaitanya/data/financial_data/images/income_sheet/f9a663d9_p1.png
+  [income_sheet                       ] /mnt/data/chaitanya/data/financial_data/images/income_sheet/f9a663d9_p2.png
+
+BOUNDARY ERRORS (144)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (96 cases)
+    gstr_form                                × 14
+    tax_audit_3CB_3CD                        × 12
+    schedules_and_annexures                  × 9
+    title_search_report                      × 9
+    cibil_commercial                         × 8
+    cibil_individual                         × 5
+    gst_certificate                          × 4
+    rent_agreement                           × 4
+    loan_sanction_letter                     × 4
+    application_form                         × 4
+    gst_accumn_report                        × 4
+    bank_statement_of_account_SOA            × 3
+    bank_statement                           × 3
+    property_ownership_docs                  × 3
+    pnl_statement                            × 1
+
+  GT=True → PRED=False  (48 cases)
+    schedules_and_annexures                  × 6
+    pnl_statement                            × 5
+    notes_to_accounts                        × 4
+    municipal_mutation_record                × 4
+    village_form_7_12                        × 3
+    balance_sheet                            × 3
+    other_financial_doc                      × 3
+    property_revenue_docs                    × 2
+    passport_front                           × 2
+    aadhar_card                              × 2
+    gstr_form                                × 1
+    other                                    × 1
+    professional_license                     × 1
+    form_16                                  × 1
+    cibil_individual                         × 1

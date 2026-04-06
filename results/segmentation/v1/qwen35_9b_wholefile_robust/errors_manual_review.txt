@@ -1,0 +1,277 @@
+DOC CLASSIFICATION BENCHMARK — ERRORS REPORT
+================================================================================
+
+PARSE FAILURES (278 samples)
+================================================================================
+  /mnt/data/chaitanya/data/financial_data/images/aadhar_back/024dc69b_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/aadhar_back/04d575a7_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/aadhar_card/00ca90a5_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/ca_certificate/02daeb84_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/combined_pnl_bs/041491f9_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/disbursement_request_letter/03966ac2_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/electricity_bill/11d3ceb5_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/email_conversation/038aba45_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/field_investigation_report/44270189_p1.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p41.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p42.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p43.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p44.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p45.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p46.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p47.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p48.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p49.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p50.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p51.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p52.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p53.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p54.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p55.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p56.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p57.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p58.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p59.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p60.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p61.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p62.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p63.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p64.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p65.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p66.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p67.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p68.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p69.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p70.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p71.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p72.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p73.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p74.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p75.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p76.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p77.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p78.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p79.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p80.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p81.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p82.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p83.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p84.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p85.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p86.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p87.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p88.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p89.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p90.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p91.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p92.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p93.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p94.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p95.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p96.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p97.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p98.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p99.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p100.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p101.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p102.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p103.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p41.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p42.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p43.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p44.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p45.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p46.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p47.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p48.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p49.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p50.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p51.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p52.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p53.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p54.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p55.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p56.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p57.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p58.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p59.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p60.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p61.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p62.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p63.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p64.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p65.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p66.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p67.png
+  /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p68.png
+  ... and 178 more
+
+is_start ERRORS (30 samples)
+================================================================================
+
+  GT=False → PRED=True  (9 cases)
+    [application_form                   ] /mnt/data/chaitanya/data/financial_data/images/application_form/01c0118a_p9.png
+    [application_form                   ] /mnt/data/chaitanya/data/financial_data/images/application_form/026ba870_p9.png
+    [computation_sheet                  ] /mnt/data/chaitanya/data/financial_data/images/computation_sheet/02644ea8_p3.png
+    [computation_sheet                  ] /mnt/data/chaitanya/data/financial_data/images/computation_sheet/035c409c_p13.png
+    [gst_certificate                    ] /mnt/data/chaitanya/data/financial_data/images/gst_certificate/01497dc4_p3.png
+    [gst_certificate                    ] /mnt/data/chaitanya/data/financial_data/images/gst_certificate/01497dc4_p5.png
+    [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/007b7285_p3.png
+    [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/11d2cd42_p3.png
+    [udyam_certificate                  ] /mnt/data/chaitanya/data/financial_data/images/udyam_certificate/01e8f176_p3.png
+
+  GT=True → PRED=False  (21 cases)
+    [balance_sheet                      ] /mnt/data/chaitanya/data/financial_data/images/balance_sheet/00d5273f_p5.png
+    [balance_sheet                      ] /mnt/data/chaitanya/data/financial_data/images/balance_sheet/0115ebca_p10.png
+    [ca_certificate                     ] /mnt/data/chaitanya/data/financial_data/images/ca_certificate/027544f3_p25.png
+    [combined_pnl_bs                    ] /mnt/data/chaitanya/data/financial_data/images/combined_pnl_bs/0a191677_p2.png
+    [computation_sheet                  ] /mnt/data/chaitanya/data/financial_data/images/computation_sheet/0140cf10_p2.png
+    [disbursement_request_letter        ] /mnt/data/chaitanya/data/financial_data/images/disbursement_request_letter/187e628c_p30.png
+    [form_26AS                          ] /mnt/data/chaitanya/data/financial_data/images/form_26AS/0148d068_p8.png
+    [form_26AS                          ] /mnt/data/chaitanya/data/financial_data/images/form_26AS/04550609_p2.png
+    [income_sheet                       ] /mnt/data/chaitanya/data/financial_data/images/income_sheet/000e7f4d_p2.png
+    [notes_to_accounts                  ] /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/019aae10_p4.png
+    [notes_to_accounts                  ] /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/027544f3_p32.png
+    [other                              ] /mnt/data/chaitanya/data/financial_data/images/other/007bcd88_p2.png
+    [other                              ] /mnt/data/chaitanya/data/financial_data/images/other/0167b4cd_p2.png
+    [other_financial_doc                ] /mnt/data/chaitanya/data/financial_data/images/other_financial_doc/0115ebca_p12.png
+    [pnl_statement                      ] /mnt/data/chaitanya/data/financial_data/images/pnl_statement/0058502f_p2.png
+    [pnl_statement                      ] /mnt/data/chaitanya/data/financial_data/images/pnl_statement/00a27cc7_p5.png
+    [schedules_and_annexures            ] /mnt/data/chaitanya/data/financial_data/images/schedules_and_annexures/00a27cc7_p7.png
+    [tax_audit_3CA_3CD                  ] /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CA_3CD/027544f3_p2.png
+    [tax_audit_3CB_3CD                  ] /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/027544f3_p23.png
+    [tax_challan                        ] /mnt/data/chaitanya/data/financial_data/images/tax_challan/00d5273f_p2.png
+    [tax_challan                        ] /mnt/data/chaitanya/data/financial_data/images/tax_challan/035c409c_p2.png
+
+LABEL ERRORS (69 samples — correct is_start, wrong label)
+================================================================================
+
+  GT: aadhar_back  (2 errors)
+    predicted 'aadhar_card'                       × 1
+    predicted 'aadhar_front'                      × 1
+
+  GT: aadhar_card  (1 errors)
+    predicted 'photograph'                        × 1
+
+  GT: aadhar_front  (2 errors)
+    predicted 'photograph'                        × 2
+
+  GT: agreement_to_sale_cancellation  (1 errors)
+    predicted 'other'                             × 1
+
+  GT: balance_sheet  (2 errors)
+    predicted 'itr_individual'                    × 1
+    predicted 'ca_certificate'                    × 1
+
+  GT: bank_statement  (1 errors)
+    predicted ''                                  × 1
+
+  GT: bank_statement_of_account_SOA  (5 errors)
+    predicted 'bank_statement'                    × 4
+    predicted 'emi_repayment_schedule'            × 1
+
+  GT: ca_certificate  (1 errors)
+    predicted 'itr_individual'                    × 1
+
+  GT: combined_pnl_bs  (1 errors)
+    predicted 'itr_individual'                    × 1
+
+  GT: computation_sheet  (2 errors)
+    predicted 'itr_firm'                          × 1
+    predicted 'ca_certificate'                    × 1
+
+  GT: disbursement_request_letter  (1 errors)
+    predicted 'loan_sanction_letter'              × 1
+
+  GT: email  (3 errors)
+    predicted 'email_conversation'                × 3
+
+  GT: form_26AS  (3 errors)
+    predicted 'tax_challan'                       × 1
+    predicted ''                                  × 1
+    predicted 'itr_individual'                    × 1
+
+  GT: income_sheet  (1 errors)
+    predicted 'itr_individual'                    × 1
+
+  GT: itr_firm_full  (1 errors)
+    predicted 'computation_sheet'                 × 1
+
+  GT: itr_individual_full  (3 errors)
+    predicted 'itr_individual'                    × 2
+    predicted 'income_sheet'                      × 1
+
+  GT: loan_exposure_summary  (1 errors)
+    predicted 'bank_statement'                    × 1
+
+  GT: loan_sanction_letter  (2 errors)
+    predicted 'bank_statement'                    × 1
+    predicted 'bank_statement_of_account_SOA'     × 1
+
+  GT: municipal_mutation_record  (1 errors)
+    predicted 'village_form_7_12'                 × 1
+
+  GT: notes_to_accounts  (2 errors)
+    predicted 'ca_certificate'                    × 2
+
+  GT: other  (4 errors)
+    predicted 'aadhar_front'                      × 2
+    predicted 'ca_certificate'                    × 1
+    predicted 'aadhar_back'                       × 1
+
+  GT: other_financial_doc  (5 errors)
+    predicted 'ca_certificate'                    × 2
+    predicted 'partnership_deed'                  × 1
+    predicted 'gst_accumn_report'                 × 1
+    predicted 'debt_sheet'                        × 1
+
+  GT: other_property_docs  (4 errors)
+    predicted 'builder_allotment_letter'          × 1
+    predicted 'vernacular_declaration'            × 1
+    predicted 'other'                             × 1
+    predicted 'application_form'                  × 1
+
+  GT: pan_card  (1 errors)
+    predicted 'itr_firm'                          × 1
+
+  GT: payment_receipt  (1 errors)
+    predicted 'aadhar_card'                       × 1
+
+  GT: photograph  (1 errors)
+    predicted 'field_visit_photograph'            × 1
+
+  GT: pnl_statement  (2 errors)
+    predicted ''                                  × 1
+    predicted 'balance_sheet'                     × 1
+
+  GT: professional_license  (1 errors)
+    predicted 'employee_id_card'                  × 1
+
+  GT: property_revenue_docs  (1 errors)
+    predicted 'other_financial_doc'               × 1
+
+  GT: sale_deed_docs  (2 errors)
+    predicted 'loan_sanction_letter'              × 1
+    predicted 'other'                             × 1
+
+  GT: schedules_and_annexures  (1 errors)
+    predicted 'balance_sheet'                     × 1
+
+  GT: tax_audit_3CA_3CD  (1 errors)
+    predicted 'ca_certificate'                    × 1
+
+  GT: tax_audit_3CB_3CD  (2 errors)
+    predicted 'tax_audit_3CA_3CD'                 × 1
+    predicted 'ca_certificate'                    × 1
+
+  GT: tax_challan  (2 errors)
+    predicted 'itr_individual'                    × 1
+    predicted 'itr_firm'                          × 1
+
+  GT: unclassified  (4 errors)
+    predicted 'payment_receipt'                   × 1
+    predicted 'memorandum_of_association'         × 1
+    predicted 'detailed_floor_unit_plan'          × 1
+    predicted 'marriage_certificate'              × 1
+
+  GT: voter_id_front  (1 errors)
+    predicted 'photograph'                        × 1

@@ -1,0 +1,36 @@
+Clear picture. Here's what's happening:
+
+  ---
+  1. Parse failures are the biggest issue (26.9% overall)
+  - Real docs: 30% parse failure rate (495/1648 pages)
+  - Synthetic: 11.4% parse failure rate (38/333 pages)
+  - Top offenders: bank_statement (245 failures!),
+  schedules_and_annexures (73), itr_individual_full (72)
+  - These are all from 24 documents that have partial
+  failures — some batches parsed fine, others didn't
+
+  2. The precision problem is almost entirely real docs:
+
+  ┌───────────┬───────────┬────────┬───────┬───────────┐
+  │   Split   │ Precision │ Recall │  F1   │  Parse    │
+  │           │           │        │       │   Fail    │
+  ├───────────┼───────────┼────────┼───────┼───────────┤
+  │ All       │ 0.579     │ 0.836  │ 0.684 │ 26.9%     │
+  ├───────────┼───────────┼────────┼───────┼───────────┤
+  │ Real      │ 0.327     │ 0.714  │ 0.449 │ 30.0%     │
+  ├───────────┼───────────┼────────┼───────┼───────────┤
+  │ Synthetic │ 0.863     │ 0.901  │ 0.882 │ 11.4%     │
+  └───────────┴───────────┴────────┴───────┴───────────┘
+
+  Synthetic is actually working well. Real docs are the
+  problem.
+
+  3. The FP culprit is gstr_form (40 FPs out of 85 total)
+  The model is treating each GSTR page as a new document
+  start. property_ownership_docs adds 14 more FPs.
+
+  Summary: Two separate problems —
+  - Parse failures (model not outputting valid array) —
+  mostly bank_statement real docs
+  - FP over-segmentation on gstr_form — real prediction
+  error, not a parsing issue

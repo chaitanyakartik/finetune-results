@@ -1,0 +1,120 @@
+QWEN35 BENCHMARK ERRORS — MANUAL VERIFICATION
+================================================================================
+
+================================================================================
+FIELD: name  (7 errors)
+================================================================================
+  File : aruna addhar card_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aruna addhar card_page1.jpg
+  GT   : Boyi Aruna Kumari
+  PRED : Bov Aruna Kumari
+  Sim  : 0.909
+
+  File : maheshbhai_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/maheshbhai_split_2_to_2_page1.jpg
+  GT   : Tibadiya Mahesh Kanubhai
+  PRED : Thadikya Mahesh Kanubhai
+  Sim  : 0.917
+
+  File : APP UID MAXED_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+  GT   : Alagani Mahesh Goud
+  PRED : Alagani Mahesh Gond
+  Sim  : 0.947
+
+  File : POWER OF ETERNI __split_22_to_23_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+  GT   : Rakhotiya Kishorkumar
+  PRED : Rakholiya Kishorkumar
+  Sim  : 0.952
+
+  File : KEERTHIVARMAN AADHAR_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT   : Keerthivarman S
+  PRED : Keerthivarma S
+  Sim  : 0.966
+
+  File : KIRAN - AADHAR_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KIRAN - AADHAR_split_1_to_1_page1.jpg
+  GT   : Kiran Atmaram Patil
+  PRED : Kirran Atmaram Patil
+  Sim  : 0.974
+
+  File : samruddhi adhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/samruddhi adhar_page1.jpg
+  GT   : Samruddhi Prashant Limbhore
+  PRED : Samrudhi Prashant Limbhore
+  Sim  : 0.981
+
+
+================================================================================
+FIELD: dateOfBirth  (1 errors)
+================================================================================
+  File : addhar jaswant_split_1_to_1_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/addhar jaswant_split_1_to_1_page1.jpg
+  GT   : 1954
+  PRED : None
+  Sim  : 0.000
+
+
+================================================================================
+FIELD: aadharNumber  (1 errors)
+================================================================================
+  File : PRADIP ADHAR_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+  GT   : 2151
+  PRED : 21151
+  Sim  : 0.471
+
+
+================================================================================
+FIELD: pincode  (1 errors)
+================================================================================
+  File : NAGARAJA AADHAR 1.jpeg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT   : 689011
+  PRED : 688011
+  Sim  : 0.833
+
+
+================================================================================
+FIELD: mobileNumber  (4 errors)
+================================================================================
+  File : APP UID MAXED_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+  GT   : 8333883599
+  PRED : None
+  Sim  : 0.000
+
+  File : _W - AADHAR MASKED NEW_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_W - AADHAR MASKED NEW_page1.jpg
+  GT   : 9952095299
+  PRED : None
+  Sim  : 0.000
+
+  File : madhava aadhar_split_2_to_2_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/madhava aadhar_split_2_to_2_page1.jpg
+  GT   : 8885550848
+  PRED : None
+  Sim  : 0.000
+
+  File : konka vanamala aadhar_page1.jpg
+  Filepath:
+/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/konka vanamala aadhar_page1.jpg
+  GT   : 9701093828
+  PRED : 913494738222
+  Sim  : 0.455
+

@@ -1,0 +1,50 @@
+SEGMENTATION BENCHMARK (ENHANCED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (0)
+----------------------------------------------------------------------
+
+BOUNDARY ERRORS (158)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (92 cases)
+    gstr_form                                × 14
+    tax_audit_3CB_3CD                        × 12
+    cibil_commercial                         × 8
+    rent_agreement                           × 7
+    cibil_individual                         × 5
+    application_form                         × 5
+    non_agriculture_order                    × 5
+    property_ownership_docs                  × 5
+    gst_certificate                          × 4
+    loan_sanction_letter                     × 4
+    udyam_certificate                        × 4
+    schedules_and_annexures                  × 3
+    certificate_of_incorporation             × 2
+    form_16                                  × 2
+    passport_front                           × 2
+
+  GT=True → PRED=False  (66 cases)
+    schedules_and_annexures                  × 6
+    pnl_statement                            × 6
+    balance_sheet                            × 5
+    notes_to_accounts                        × 5
+    other_financial_doc                      × 5
+    municipal_mutation_record                × 4
+    village_form_7_12                        × 3
+    property_revenue_docs                    × 2
+    other                                    × 2
+    aadhar_front                             × 2
+    rent_agreement                           × 2
+    title_search_report                      × 2
+    itr_firm                                 × 2
+    gstr_form                                × 2
+    disbursement_request_letter              × 2
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (7 cases)
+----------------------------------------------------------------------
+  village_form_7_12                        × 2
+  other_financial_doc                      × 2
+  schedules_and_annexures                  × 1
+  professional_license                     × 1
+  notes_to_accounts                        × 1

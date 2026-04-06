@@ -1,0 +1,35 @@
+SEGMENTATION BENCHMARK — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (0)
+----------------------------------------------------------------------
+
+BOUNDARY ERRORS (73)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (38 cases)
+    gstr_form                                × 16
+    property_ownership_docs                  × 12
+    schedules_and_annexures                  × 4
+    income_sheet                             × 1
+    shop_act_license                         × 1
+    combined_pnl_bs                          × 1
+    rent_agreement                           × 1
+    other_financial_doc                      × 1
+    tax_audit_3CA_3CD                        × 1
+
+  GT=True → PRED=False  (35 cases)
+    pnl_statement                            × 6
+    schedules_and_annexures                  × 5
+    notes_to_accounts                        × 4
+    municipal_mutation_record                × 4
+    balance_sheet                            × 3
+    other_financial_doc                      × 2
+    village_form_7_12                        × 2
+    property_revenue_docs                    × 2
+    other                                    × 2
+    aadhar_front                             × 1
+    photograph                               × 1
+    computation_sheet                        × 1
+    form_16                                  × 1
+    form_26AS                                × 1

@@ -1,0 +1,92 @@
+SEGMENTATION BENCHMARK — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (50)
+----------------------------------------------------------------------
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p20.png
+  [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/24c2a5be_p21.png
+  [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/24c2a5be_p22.png
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p23.png
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p24.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p25.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p26.png
+  [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/24c2a5be_p27.png
+  [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/24c2a5be_p28.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p47.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p48.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p49.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p50.png
+  [aadhar_front                       ] /mnt/data/chaitanya/data/financial_data/images/aadhar_front/24c2a5be_p51.png
+  [other                              ] /mnt/data/chaitanya/data/financial_data/images/other/24c2a5be_p52.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p47.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p48.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p49.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p50.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p51.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p52.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p53.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/21cdfb2c_p54.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/236ae56b_p47.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/236ae56b_p48.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/236ae56b_p49.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/236ae56b_p50.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/236ae56b_p51.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/26f15d98_p47.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/26f15d98_p48.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/26f15d98_p49.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/26f15d98_p50.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/26f15d98_p51.png
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/499351f8_p2.png
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/499351f8_p3.png
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/499351f8_p4.png
+  [notes_to_accounts                  ] /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/1b0c1b36_p74.png
+  [property_ownership_docs            ] /mnt/data/chaitanya/data/financial_data/images/property_ownership_docs/2073d3f1_p56.png
+  [property_ownership_docs            ] /mnt/data/chaitanya/data/financial_data/images/property_ownership_docs/2073d3f1_p57.png
+  [property_ownership_docs            ] /mnt/data/chaitanya/data/financial_data/images/property_ownership_docs/2073d3f1_p58.png
+  [property_ownership_docs            ] /mnt/data/chaitanya/data/financial_data/images/property_ownership_docs/2073d3f1_p59.png
+  [property_ownership_docs            ] /mnt/data/chaitanya/data/financial_data/images/property_ownership_docs/2073d3f1_p60.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/1ba357cb_p1.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/1ba357cb_p2.png
+  [gstr_form                          ] /mnt/data/chaitanya/data/financial_data/images/gstr_form/1ba357cb_p3.png
+  [pnl_statement                      ] /mnt/data/chaitanya/data/financial_data/images/pnl_statement/2978230a_p1.png
+  [emi_repayment_schedule             ] /mnt/data/chaitanya/data/financial_data/images/emi_repayment_schedule/ad0ee082_p1.png
+  [emi_repayment_schedule             ] /mnt/data/chaitanya/data/financial_data/images/emi_repayment_schedule/ad0ee082_p2.png
+  [email                              ] /mnt/data/chaitanya/data/financial_data/images/email/93fb415e_p1.png
+  [email                              ] /mnt/data/chaitanya/data/financial_data/images/email/93fb415e_p2.png
+
+BOUNDARY ERRORS (111)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (66 cases)
+    gstr_form                                × 16
+    cibil_commercial                         × 8
+    tax_audit_3CB_3CD                        × 6
+    property_ownership_docs                  × 5
+    gst_certificate                          × 4
+    application_form                         × 4
+    gst_accumn_report                        × 4
+    rent_agreement                           × 3
+    schedules_and_annexures                  × 2
+    passport_front                           × 2
+    title_search_report                      × 2
+    notes_to_accounts                        × 1
+    certificate_of_incorporation             × 1
+    shop_act_license                         × 1
+    village_form_7_12                        × 1
+
+  GT=True → PRED=False  (45 cases)
+    schedules_and_annexures                  × 7
+    pnl_statement                            × 6
+    other_financial_doc                      × 4
+    notes_to_accounts                        × 4
+    municipal_mutation_record                × 3
+    balance_sheet                            × 3
+    aadhar_card                              × 2
+    village_form_7_12                        × 1
+    other                                    × 1
+    combined_pnl_bs                          × 1
+    rent_agreement                           × 1
+    form_16                                  × 1
+    pan_card                                 × 1
+    NACH_form                                × 1
+    bank_cheque                              × 1

@@ -1,0 +1,74 @@
+TRIPLET BENCHMARK — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (5)
+----------------------------------------------------------------------
+  GT boundary_label=CONTINUE   4 failures
+  GT boundary_label=START      1 failures
+  [web_search_report                  ] /mnt/data/chaitanya/data/financial_data/images/web_search_report/8e337cda_p2.png
+  [title_search_report                ] /mnt/data/chaitanya/data/financial_data/images/title_search_report/281fe059_p15.png
+  [tax_audit_3CB_3CD                  ] /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/d7814402_p16.png
+  [rent_agreement                     ] /mnt/data/chaitanya/data/financial_data/images/rent_agreement/c2914140_p1.png
+  [computation_sheet                  ] /mnt/data/chaitanya/data/financial_data/images/computation_sheet/8482c562_p2.png
+
+FIELD ERRORS (714)
+----------------------------------------------------------------------
+
+  boundary_label errors (124):
+    GT=CONTINUE → PRED=START  (95 cases)
+      gstr_form                                     × 35
+      property_ownership_docs                       × 30
+      schedules_and_annexures                       × 6
+      title_search_report                           × 5
+      certificate_of_incorporation                  × 4
+      other_financial_doc                           × 3
+      web_search_report                             × 2
+      gst_certificate                               × 2
+      application_form                              × 1
+      tax_audit_3CB_3CD                             × 1
+    GT=START → PRED=CONTINUE  (29 cases)
+      schedules_and_annexures                       × 7
+      pnl_statement                                 × 5
+      notes_to_accounts                             × 4
+      other_financial_doc                           × 3
+      village_form_7_12                             × 2
+      other                                         × 2
+      balance_sheet                                 × 1
+      municipal_mutation_record                     × 1
+      form_16                                       × 1
+      aadhar_back                                   × 1
+
+  doc_type errors (611):
+    schedules_and_annexures             → notes_to_accounts                   × 67
+    schedules_and_annexures             → other_financial_doc                 × 52
+    schedules_and_annexures             → bank_statement                      × 30
+    property_ownership_docs             → rent_agreement                      × 22
+    tax_audit_3CB_3CD                   → tax_audit_3cb_3cd                   × 21
+    property_ownership_docs             → other_financial_doc                 × 21
+    municipal_mutation_record           → schedules_and_annexures             × 15
+    itr_individual_full                 → schedules_and_annexures             × 13
+    schedules_and_annexures             → tax_audit_3cb_3cd                   × 11
+    village_form_7_12                   → schedules_and_annexures             × 11
+    tax_audit_3CA_3CD                   → tax_audit_3cb_3cd                   × 10
+    municipal_mutation_record           → other_financial_doc                 × 10
+    tax_audit_3CB_3CD                   → itr_individual_full                 × 10
+    cibil_commercial                    → cibil_individual                    × 9
+    tax_audit_3CB_3CD                   → itr_firm                            × 8
+    certificate_of_incorporation        → articles_of_association             × 8
+    village_form_7_12                   → other_financial_doc                 × 8
+    gst_certificate                     → gst_registration_certificate        × 8
+    title_search_report                 → aadhar_card                         × 7
+    form_26AS                           → itr_individual_full                 × 7
+
+  page_role errors (229):
+    middle     → first      × 56
+    middle     → last       × 54
+    last       → middle     × 31
+    middle     → single     × 29
+    first      → middle     × 21
+    single     → first      × 13
+    first      → single     × 7
+    last       → single     × 7
+    single     → middle     × 5
+    last       → first      × 3
+    single     → last       × 3

@@ -1,0 +1,41 @@
+SEGMENTATION BENCHMARK — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (4)
+----------------------------------------------------------------------
+  [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/24c2a5be_p21.png
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p23.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p25.png
+  [property_revenue_docs              ] /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/24c2a5be_p27.png
+
+BOUNDARY ERRORS (89)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (61 cases)
+    gstr_form                                × 29
+    property_ownership_docs                  × 15
+    schedules_and_annexures                  × 4
+    application_form                         × 3
+    title_search_report                      × 2
+    income_sheet                             × 1
+    tax_audit_3CB_3CD                        × 1
+    shop_act_license                         × 1
+    gst_certificate                          × 1
+    cibil_commercial                         × 1
+    rent_agreement                           × 1
+    other_financial_doc                      × 1
+    tax_audit_3CA_3CD                        × 1
+
+  GT=True → PRED=False  (28 cases)
+    pnl_statement                            × 6
+    schedules_and_annexures                  × 5
+    notes_to_accounts                        × 4
+    municipal_mutation_record                × 3
+    balance_sheet                            × 2
+    other_financial_doc                      × 2
+    village_form_7_12                        × 1
+    other                                    × 1
+    aadhar_back                              × 1
+    photograph                               × 1
+    combined_pnl_bs                          × 1
+    form_26AS                                × 1

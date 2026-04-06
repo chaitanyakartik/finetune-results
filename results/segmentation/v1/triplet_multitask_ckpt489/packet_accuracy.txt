@@ -1,0 +1,55 @@
+TRIPLET BENCHMARK — PACKET ACCURACY REPORT
+======================================================================
+
+Exact: 22/42
+
+WRONG PACKETS (20)
+----------------------------------------------------------------------
+  098a7bf8367116bd  n_pages=74
+    missed boundaries: [28, 30, 32]
+    extra  boundaries: [15, 45, 59, 71]
+  0a6e02083004e0d4  n_pages=55
+    missed boundaries: [3, 4, 8, 10, 55]
+  0a79758a4b64d49c  n_pages=80
+    missed boundaries: [8]
+    extra  boundaries: [76, 77]
+  1b0c1b36d6a1be89  n_pages=74
+    missed boundaries: [10, 17, 19, 21, 25]
+    extra  boundaries: [2, 8]
+  1fa8eba06fac844c  n_pages=56
+    missed boundaries: [1, 3, 7, 12, 13, 14, 16]
+  2073d3f1f13ef4cd  n_pages=60
+    extra  boundaries: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 35, 37, 38, 39, 40, 41, 46, 48, 49, 50, 51, 54, 55, 56, 57, 58, 59]
+  2111c5ef17fd235b  n_pages=60
+    extra  boundaries: [7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 58]
+  21cdfb2cba4b4896  n_pages=54
+    extra  boundaries: [4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34, 37, 40, 43, 46, 49, 52]
+  24140944f51af7bc  n_pages=61
+    missed boundaries: [3, 11, 23]
+    extra  boundaries: [5]
+  24c2a5be78749c7a  n_pages=52
+    missed boundaries: [19, 30, 31, 52]
+    extra  boundaries: [16]
+  synth_03fbf2ae  n_pages=6
+    extra  boundaries: [4]
+  synth_0d1aec92  n_pages=39
+    missed boundaries: [39]
+    extra  boundaries: [14]
+  synth_0f4f283d  n_pages=9
+    missed boundaries: [1]
+  synth_0ffd7ad3  n_pages=11
+    extra  boundaries: [4]
+  synth_188f1d40  n_pages=22
+    extra  boundaries: [11]
+  synth_1acb3ea6  n_pages=46
+    missed boundaries: [46]
+    extra  boundaries: [3, 22, 23, 31]
+  synth_1d5dcd37  n_pages=31
+    extra  boundaries: [13, 19, 21, 23, 25]
+  synth_2dc52349  n_pages=13
+    extra  boundaries: [8, 13]
+  synth_32ff556d  n_pages=50
+    extra  boundaries: [49]
+  synth_3530e4fd  n_pages=12
+    missed boundaries: [9]
+    extra  boundaries: [11]

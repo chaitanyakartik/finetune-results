@@ -1,0 +1,235 @@
+DOC CLASSIFICATION BENCHMARK — ERRORS REPORT
+================================================================================
+
+PARSE FAILURES (40 samples — model output could not be parsed)
+================================================================================
+  /mnt/data/chaitanya/data/financial_data/images/certificate_of_incorporation/17933543_p6.png
+  /mnt/data/chaitanya/data/financial_data/images/loan_sanction_letter/0b7c5918_p4.png
+  /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/019aae10_p10.png
+  /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/01b9fdf8_p6.png
+  /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/01b9fdf8_p18.png
+  /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/11d2cd42_p6.png
+  /mnt/data/chaitanya/data/financial_data/images/rent_agreement/004e79b8_p5.png
+  /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p4.png
+  /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p8.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/019aae10_p22.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p6.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p10.png
+  /mnt/data/chaitanya/data/financial_data/images/certificate_of_incorporation/17933543_p7.png
+  /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/01b9fdf8_p7.png
+  /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/01b9fdf8_p15.png
+  /mnt/data/chaitanya/data/financial_data/images/other/0115ebca_p7.png
+  /mnt/data/chaitanya/data/financial_data/images/rent_agreement/004e79b8_p6.png
+  /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p5.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CA_3CD/027544f3_p9.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/019aae10_p23.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p7.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p11.png
+  /mnt/data/chaitanya/data/financial_data/images/certificate_of_incorporation/17933543_p4.png
+  /mnt/data/chaitanya/data/financial_data/images/loan_sanction_letter/0b7c5918_p2.png
+  /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/18645b11_p2.png
+  /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/01b9fdf8_p20.png
+  /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/11d2cd42_p8.png
+  /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p2.png
+  /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p6.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/019aae10_p28.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p12.png
+  /mnt/data/chaitanya/data/financial_data/images/certificate_of_incorporation/17933543_p5.png
+  /mnt/data/chaitanya/data/financial_data/images/loan_sanction_letter/0b7c5918_p3.png
+  /mnt/data/chaitanya/data/financial_data/images/other_property_docs/099bf177_p5.png
+  /mnt/data/chaitanya/data/financial_data/images/rent_agreement/004e79b8_p8.png
+  /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p7.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/019aae10_p21.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/019aae10_p29.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p5.png
+  /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/0299ed97_p9.png
+
+is_start_page ERRORS (913 samples)
+================================================================================
+
+  GT=False → PRED=True  (913 cases)
+    [agreement_to_sale_cancellation] /mnt/data/chaitanya/data/financial_data/images/agreement_to_sale_cancellation/0a79abd6_p2.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/001a13a3_p2.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/001a13a3_p6.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/001a13a3_p10.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/001a13a3_p14.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/0141acfd_p4.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/0141acfd_p8.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/0141acfd_p12.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/01c0118a_p2.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/01c0118a_p6.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/01c0118a_p10.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/01c0118a_p14.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/026ba870_p5.png
+    [application_form              ] /mnt/data/chaitanya/data/financial_data/images/application_form/026ba870_p9.png
+    [bank_statement                ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/002bd85c_p4.png
+    [bank_statement                ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/0089af31_p2.png
+    [bank_statement                ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/0089af31_p6.png
+    [bank_statement                ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/00959419_p4.png
+    [bank_statement                ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/00959419_p8.png
+    [bank_statement                ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/00959419_p12.png
+    ... and 893 more
+
+LABEL ERRORS (58 samples — is_start correct but wrong label)
+================================================================================
+
+  GT label: aadhar_back  (3 errors)
+    → predicted 'aadhar_front': 3×
+    /mnt/data/chaitanya/data/financial_data/images/aadhar_back/024dc69b_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/aadhar_back/04d575a7_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/aadhar_back/07372c7e_p1.png
+
+  GT label: aadhar_card  (1 errors)
+    → predicted 'aadhar_back': 1×
+    /mnt/data/chaitanya/data/financial_data/images/aadhar_card/00b0af3b_p1.png
+
+  GT label: aadhar_front  (1 errors)
+    → predicted 'aadhar_card': 1×
+    /mnt/data/chaitanya/data/financial_data/images/aadhar_front/039b73b4_p1.png
+
+  GT label: agreement_to_sale_cancellation  (1 errors)
+    → predicted 'income_sheet': 1×
+    /mnt/data/chaitanya/data/financial_data/images/agreement_to_sale_cancellation/0a79abd6_p1.png
+
+  GT label: bank_statement_of_account_SOA  (2 errors)
+    → predicted 'emi_repayment_schedule': 1×
+    → predicted 'bank_statement': 1×
+    /mnt/data/chaitanya/data/financial_data/images/bank_statement_of_account_SOA/0333d66d_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/bank_statement_of_account_SOA/0573e4b1_p1.png
+
+  GT label: ca_certificate  (4 errors)
+    → predicted 'other_financial_doc': 2×
+    → predicted 'partnership_deed': 1×
+    → predicted 'tax_audit_3CA_3CD': 1×
+    /mnt/data/chaitanya/data/financial_data/images/ca_certificate/02daeb84_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/ca_certificate/01d269a5_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/ca_certificate/043344b1_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/ca_certificate/027544f3_p1.png
+
+  GT label: combined_pnl_bs  (1 errors)
+    → predicted 'pnl_statement': 1×
+    /mnt/data/chaitanya/data/financial_data/images/combined_pnl_bs/0a191677_p2.png
+
+  GT label: computation_sheet  (2 errors)
+    → predicted 'other_financial_doc': 1×
+    → predicted 'balance_sheet': 1×
+    /mnt/data/chaitanya/data/financial_data/images/computation_sheet/02644ea8_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/computation_sheet/035c409c_p12.png
+
+  GT label: disbursement_request_letter  (1 errors)
+    → predicted 'other_financial_doc': 1×
+    /mnt/data/chaitanya/data/financial_data/images/disbursement_request_letter/03966ac2_p1.png
+
+  GT label: email  (3 errors)
+    → predicted 'email_conversation': 3×
+    /mnt/data/chaitanya/data/financial_data/images/email/060cd078_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/email/1c96361b_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/email/1c962707_p1.png
+
+  GT label: itr_firm_full  (2 errors)
+    → predicted 'computation_sheet': 1×
+    → predicted 'itr_firm': 1×
+    /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/05701b26_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/itr_firm_full/0345eb58_p1.png
+
+  GT label: itr_individual_full  (4 errors)
+    → predicted 'itr_individual': 3×
+    → predicted 'income_sheet': 1×
+    /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/055b3652_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0467147f_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/1232c648_p1.png
+
+  GT label: loan_exposure_summary  (1 errors)
+    → predicted 'debt_sheet': 1×
+    /mnt/data/chaitanya/data/financial_data/images/loan_exposure_summary/15890fd0_p1.png
+
+  GT label: loan_sanction_letter  (1 errors)
+    → predicted 'application_form': 1×
+    /mnt/data/chaitanya/data/financial_data/images/loan_sanction_letter/0b7c5918_p1.png
+
+  GT label: municipal_mutation_record  (3 errors)
+    → predicted 'other_financial_doc': 1×
+    → predicted 'village_form_7_12': 1×
+    → predicted 'property_revenue_docs': 1×
+    /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/180dcb76_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/18645b11_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/048eaa35_p1.png
+
+  GT label: notes_to_accounts  (1 errors)
+    → predicted 'pnl_statement': 1×
+    /mnt/data/chaitanya/data/financial_data/images/notes_to_accounts/027544f3_p32.png
+
+  GT label: other  (5 errors)
+    → predicted 'aadhar_back': 3×
+    → predicted 'aadhar_front': 1×
+    → predicted 'other_financial_doc': 1×
+    /mnt/data/chaitanya/data/financial_data/images/other/0167b4cd_p2.png
+    /mnt/data/chaitanya/data/financial_data/images/other/003eb10f_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other/0202b220_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other/007bcd88_p2.png
+    /mnt/data/chaitanya/data/financial_data/images/other/0115ebca_p1.png
+
+  GT label: other_financial_doc  (4 errors)
+    → predicted 'gst_accumn_report': 1×
+    → predicted 'debt_sheet': 1×
+    → predicted 'partnership_deed': 1×
+    → predicted 'pnl_statement': 1×
+    /mnt/data/chaitanya/data/financial_data/images/other_financial_doc/0165b9db_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other_financial_doc/03b9ba8e_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other_financial_doc/00898071_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other_financial_doc/0115ebca_p12.png
+
+  GT label: other_property_docs  (3 errors)
+    → predicted 'vernacular_declaration': 1×
+    → predicted 'other_financial_doc': 1×
+    → predicted 'application_form': 1×
+    /mnt/data/chaitanya/data/financial_data/images/other_property_docs/0ffb5fe7_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other_property_docs/08756d3b_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/other_property_docs/099bf177_p1.png
+
+  GT label: partnership_deed  (1 errors)
+    → predicted 'other_financial_doc': 1×
+    /mnt/data/chaitanya/data/financial_data/images/partnership_deed/0859c13f_p1.png
+
+  GT label: payment_receipt  (1 errors)
+    → predicted 'aadhar_card': 1×
+    /mnt/data/chaitanya/data/financial_data/images/payment_receipt/0d158db5_p2.png
+
+  GT label: pnl_statement  (2 errors)
+    → predicted 'notes_to_accounts': 1×
+    → predicted 'balance_sheet': 1×
+    /mnt/data/chaitanya/data/financial_data/images/pnl_statement/0058502f_p2.png
+    /mnt/data/chaitanya/data/financial_data/images/pnl_statement/00a27cc7_p5.png
+
+  GT label: professional_license  (1 errors)
+    → predicted 'ca_certificate': 1×
+    /mnt/data/chaitanya/data/financial_data/images/professional_license/0ba9494a_p1.png
+
+  GT label: property_revenue_docs  (1 errors)
+    → predicted 'computation_sheet': 1×
+    /mnt/data/chaitanya/data/financial_data/images/property_revenue_docs/11d2cd42_p1.png
+
+  GT label: sale_deed_docs  (2 errors)
+    → predicted 'property_ownership_docs': 1×
+    → predicted 'rent_agreement': 1×
+    /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/27ee8d51_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/sale_deed_docs/2b215f8c_p1.png
+
+  GT label: tax_audit_3CB_3CD  (2 errors)
+    → predicted 'schedules_and_annexures': 1×
+    → predicted 'tax_audit_3CA_3CD': 1×
+    /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/027544f3_p23.png
+    /mnt/data/chaitanya/data/financial_data/images/tax_audit_3CB_3CD/019aae10_p17.png
+
+  GT label: unclassified  (5 errors)
+    → predicted 'payment_receipt': 1×
+    → predicted 'bank_statement': 1×
+    → predicted 'memorandum_of_association': 1×
+    → predicted 'other_property_docs': 1×
+    → predicted 'marriage_certificate': 1×
+    /mnt/data/chaitanya/data/financial_data/images/unclassified/0063cdaa_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/unclassified/092f65eb_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/unclassified/0526da00_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/unclassified/057fe362_p1.png
+    /mnt/data/chaitanya/data/financial_data/images/unclassified/064fc9bf_p1.png

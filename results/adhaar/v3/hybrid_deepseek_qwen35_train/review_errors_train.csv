@@ -1,0 +1,419 @@
+PRED Correct?,Field,GT,Pred,Image
+,name,,Ram Prasad Mukherjee,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/TANDRA ADHARCARD_page2.jpg
+,dateOfBirth,,1958,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jayanthilal Bharecha Aadharcard_page1.jpg
+,name,,Gian Singh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AMARJEET SINGH AADHAR_page2.jpg
+,dateOfBirth,,1973,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Latha Masked aadhar_page1.jpg
+,name,,Bobby Singh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/ACoApp Aadhar_split_2_to_2_page1.jpg
+,aadharNumber,,9157 8837 0456 8935,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aadhar bhuvaneswari_split_1_to_1_page1.jpg
+,dateOfBirth,,1970,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MAHENDRA AADHAR_page1.jpg
+,aadharNumber,,4310,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RAKESH AADHAR_page1.jpg
+,aadharNumber,,XXXX XXXX 4744,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/TANUJA ADHARCARD_page1.jpg
+,aadharNumber,,9577,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Sivakami Aadhar_page1.jpg
+,dateOfBirth,,1978,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/vishnu aadhar_split_1_to_1_page1.jpg
+,dateOfBirth,,1961,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/narayana aadhar card_page1.jpg
+,aadharNumber,,9196 8518 5125 8329,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/NEW AAH ANITHA_page1.jpg
+,dateOfBirth,,1978,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Santosh Aadhar_page1.jpg
+,aadharNumber,,6689 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Santosh Aadhar_page1.jpg
+,dateOfBirth,,1980,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/DINESH AADHAR_page1.jpg
+,dateOfBirth,,1971,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BALRAJ AADHAR_page1.jpg
+,name,,Biowenath Palpa,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BISWANATH AADHAAR_page2.jpg
+,dateOfBirth,,1964,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR NIRMAL _page1.jpg
+,mobileNumber,,1122145669,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR NIRMAL _page1.jpg
+,dateOfBirth,,1983,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/DHARAMVEER AADHAR_split_1_to_1_page1.jpg
+,name,,Kamlesh Mathiya,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/maheshbhai_split_2_to_3_page2.jpg
+,dateOfBirth,,1939,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Aadhar_Sundari_split_1_to_1_page1.jpg
+,dateOfBirth,,1965,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BABURAJAN - Aadhar.jpeg
+,dateOfBirth,,1978,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/VELMURUGEN AADHAR_page1.jpg
+,dateOfBirth,,1968,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Naseera aadhaar_copy_split_1_to_1_page1.jpg
+,mobileNumber,,8743821664,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar deepak_split_1_to_1_page1.jpg
+,dateOfBirth,,1986,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/karthik aadhar card_split_1_to_1_page1.jpg
+,aadharNumber,,9128 8277 1232 6829,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR SIDHHI_split_1_to_1_page1.jpg
+,mobileNumber,,08382452,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR_page1.jpg
+,aadharNumber,,21 XXXX 32,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/App Aaghat_page1.jpg
+,name,,Rajesh Kumar,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Deepa Aadhar Back.jpg
+,aadharNumber,,XXXX XXXX 6278,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR SWETA_split_1_to_1_page1.jpg
+,aadharNumber,,XXXX XXXX 6679,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANJALI ADDHAR_page1.jpg
+,dateOfBirth,,1985,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR CARD OF ARCHANA POPETA_page1.jpg
+,aadharNumber,,9157 8837 0456 8935,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/bhuvana aadhar_split_1_to_1_page1.jpg
+,dateOfBirth,,1982,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Happy Addhar_split_1_to_1_page1.jpg
+,aadharNumber,,XXXX XXXX 4618,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/adhar amit kapoor_split_1_to_1_page1.jpg
+,dateOfBirth,,1980,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SAJNA AADHAR 1.jpg
+,aadharNumber,,6287,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR CARD NEHA_page1.jpg
+,dateOfBirth,,2006,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Screenshot 2025-09-18 113154.jpg
+,dateOfBirth,,1978,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAAR KUMARESAN_page1.jpg
+,dateOfBirth,,1964,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Muli Devi_page1.jpg
+,dateOfBirth,,1958,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR MOHAN _page1.jpg
+,aadharNumber,,9121 3057 1095 3918,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SrinivasGupta Adhar_split_1_to_1_page1.jpg
+,aadharNumber,,2824,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RAJ KUMAR ADHAR_001 (1)_page1.jpg
+,aadharNumber,,9139 0905 5888 1822,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/preeti adhar_page1.jpg
+,aadharNumber,,4354,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUDIPTA AADHAAR_page1.jpg
+,name,,Saeed van Thakur,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SACHIDA ADHARCARD_page2.jpg
+,aadharNumber,,9157 0319 7484 8990,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR SHASHIKANT_split_1_to_1_page1.jpg
+,dateOfBirth,,1980,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar SV sir_page1.jpg
+,aadharNumber,,7808,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Mohamed Rafik Aadhar_page1.jpg
+,mobileNumber,,938030978329,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ID_split_8_to_8_page1.jpg
+,mobileNumber,,512938542975,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAAR PANCHAVARNAM.jpg
+,name,,Salih Mohammed,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SAJNA AADHAR 2.jpg
+,dateOfBirth,,1989,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SMITA AADHAR_page1.jpg
+,aadharNumber,,XXXX XXXX 4298,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/nav adhar_page1.jpg
+,aadharNumber,,XXXX XXXX 1594,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/som uid_split_1_to_1_page1.jpg
+,mobileNumber,,9895404654,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/muniraj-- aadhar_page1.jpg
+,dateOfBirth,,1959,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Divyang Aadhar Card_page1.jpg
+,aadharNumber,,9136 3138 9206 0941,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SUJATHA ADHAR_split_1_to_1_page1.jpg
+,dateOfBirth,,1987,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR GANESH _page1.jpg
+,dateOfBirth,,1981,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/amrit pal kaur addhar_split_1_to_1_page1.jpg
+,dateOfBirth,,1984,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/APARNA ADHAAR_page1.jpg
+,aadharNumber,,8714,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/APARNA ADHAAR_page1.jpg
+,name,,RAMAN VAGADIYA,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR - HEMAL_split_2_to_2_page1.jpg
+,dateOfBirth,,1969,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BINDHU- Aadhaar_1.jpg
+,dateOfBirth,,1977,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SANDHYA AADHAAR CARD B_split_1_to_1_page1.jpg
+,dateOfBirth,,1978,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/6 ENTRY _ 2_split_51_to_51_page1.jpg
+,dateOfBirth,,1990,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ASWATHY AADHAR_page1.jpg
+,dateOfBirth,,1990,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/rakesh aadhar card_page1.jpg
+,aadharNumber,,9155 5980 1835 0356,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Clear Aadhaar Card - Shobha Kumari_split_1_to_1_page1.jpg
+,dateOfBirth,,1954,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SUDHA AADHAR.jpg
+,aadharNumber,,9138 2276 1023,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AUNTY ADHAR_page1.jpg
+,aadharNumber,,9191 4507 0289 2146,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Narendra Aadha card 1_page1.jpg
+,dateOfBirth,,1967,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Babu Lal Aadhaar_split_2_to_2_page1.jpg
+,aadharNumber,,XXXX XXXX 4583,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar supriya_page2.jpg
+,aadharNumber,,9144 3148 2293 7970,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/VIKRAM ADHAR CARD_split_1_to_1_page1.jpg
+,name,,Fakashhal Shantilal Patel,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhar_back_page1.jpg
+,dateOfBirth,,1979,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/JASEETHA AADHAR 1.jpg
+,dateOfBirth,,1983,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_co app adhar card MAXED_page1.jpg
+,dateOfBirth,,1981,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Deepa Aadhar Front.jpg
+,dateOfBirth,,1962,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR - SAMSON_split_1_to_1_page1.jpg
+,dateOfBirth,,1957,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aadhar uma_split_1_to_1_page1.jpg
+,name,"Praveen J, Bagrecha",Praveen J. Bagrecha,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Praveen Aadhar card_page1.jpg
+,aadharNumber,7374 4993 4951,4951 4999 4951,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/CO APP ADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 1220,1220 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MANUDEEP KYC_page1.jpg
+,name,Chinta Santhi,Chitra Sathi,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar_20250527045932_page1.jpg
+,dateOfBirth,04/06/1988,04/08/1988,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar_20250527045932_page1.jpg
+,pincode,533291,533281,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar_20250527045932_page1.jpg
+,mobileNumber,,919656657386,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar_20250527045932_page1.jpg
+,name,,Gopal Sah,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/addhar back.jpg
+,aadharNumber,9183 0074 6619,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/addhar back.jpg
+,mobileNumber,,918300746619,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/addhar back.jpg
+,aadharNumber,XXXX XXXX 7559,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Anil aadhar masked_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 0102,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/YOGESH ADHAAR_split_1_to_1_page1.jpg
+,aadharNumber,XXXX 7085 8935,XXXX XXXX 7085,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Bhuvaneswari aadhar_page1.jpg
+,name,Tandrina Mukherjee,Tandrima Mukherjee,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/TANDRA ADHARCARD_page1.jpg
+,dateOfBirth,11/11/1979,11/11/1970,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/TANDRA ADHARCARD_page1.jpg
+,name,Avineni Manjhu,Avrmeni Manjhu,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MANJU - AADHAR_page1.jpg
+,aadharNumber,,4660 4660 4660,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MANJU - AADHAR_page1.jpg
+,name,Jalu Abhalbhai Lathubhai,JALU ABHALBAI LABHUBHAI,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Abhalbhai_page1.jpg
+,aadharNumber,,5929 5603 5177,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Abhalbhai_page1.jpg
+,mobileNumber,9429200007,911272056035177,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Abhalbhai_page1.jpg
+,aadharNumber,XXXX XXXX 1046,1046 9156 6104,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KIRAN AADHAR CARD_page1.jpg
+,name,Manikanta.L,Manikanta L,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Manikanta Aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 8126,9192 1805 6109,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Manikanta Aadhar_page1.jpg
+,aadharNumber,75XXXXXXXX49,9190 1789 6583 2168,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PAN & Adhar Kajal_split_2_to_2_page1.jpg
+,name,Savani Monika Digneshbhai,Sevani Monika Digneshbhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/41b717c59b7a58c7fbb70dfdc47b0e6c1fad518d3e0851b4eafe40aa3c997f81-Screenshot 2025-09-18 112951_masked.jpg
+,aadharNumber,XXXX XXXX 4644,4644 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ASMITA_page1.jpg
+,mobileNumber,9890631030,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ASMITA_page1.jpg
+,dateOfBirth,,1972,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/sultan ram jat kyc mask_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 6960,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/sultan ram jat kyc mask_split_1_to_1_page1.jpg
+,name,Bhagvanti Bhade,Bhagwanti Bhade,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/DOC-20260114-WA0093_page1.jpg
+,name,,Virendra Kumar Dixit,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/m aadhar card (1).jpg
+,aadharNumber,XXXXXXXX5231,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/m aadhar card (1).jpg
+,name,Subrajeetha Govindaraj,Subrajeeetha Govindaraj,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SUBRAJEETHA_page1.jpg
+,name,Marnoori Neeraja,Mamoori Neeraja,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Neeraja E Adhar_page1.jpg
+,name,Kanmani Bharathi Loyala Jerald,G. MITHUKUMAR,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/kanmani adhar_page1.jpg
+,aadharNumber,XXXX XXXX 0748,0748 0000 0000,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/kanmani adhar_page1.jpg
+,aadharNumber,XXXX XXXX 0937,9194 0161 4743 4939,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar Rakesh_page1.jpg
+,dateOfBirth,,1960,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAARIQBAL_copy_split_1_to_1_page1.jpg
+,aadharNumber,8196,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAARIQBAL_copy_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 4583,9193 0457 6432 1756,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aadhar supriya_split_1_to_1_page1.jpg
+,name,,Kamlesh Mathur,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/asmita aadhar card_page2.jpg
+,dateOfBirth,,19-12-19,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/asmita aadhar card_page2.jpg
+,gender,,Male,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/asmita aadhar card_page2.jpg
+,aadharNumber,XXXX XXXX 8182,8182 395006,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/asmita aadhar card_page2.jpg
+,name,Dodla Sunil Reddy,Dodia Sunil Reddy,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Sunil Reddy Aadhar _page1.jpg
+,dateOfBirth,,1968,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Sunil Reddy Aadhar _page1.jpg
+,aadharNumber,8809 0825 9716,9716,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Sunil Reddy Aadhar _page1.jpg
+,mobileNumber,9437063519,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/HANUMAN ADHAR_page1.jpg
+,name,Marnoori Srikanth,Mamoori Srikanth,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Srikanth E Adhar_page1.jpg
+,aadharNumber,XXXX XXXX 6301,6301 9187 6510,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Srikanth  Masked Aadhar_page1.jpg
+,name,Rakesh,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RAKESH AADHAR_page2.jpg
+,aadharNumber,4310,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RAKESH AADHAR_page2.jpg
+,aadharNumber,XXXX XXXX 6522,6522 9149 8146,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/sarfu adhar_page1.jpg
+,aadharNumber,XXXX XXXX 2804,9147 4144 9029 4402,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_page1.jpg
+,name,Panchal Hitesh Devchandbhai,Panchal Hitesh Devchandhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Hitesh Aadhar_split_1_to_1_page1.jpg
+,mobileNumber,,999884167,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Hitesh Aadhar_split_1_to_1_page1.jpg
+,dateOfBirth,09/09/1985,05/09/1985,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ROOPA AADHAR CARD_page1.jpg
+,aadharNumber,7066,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/ADHAR - VARSHA_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 8576,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/KYC-aadhaar_back-2.jpg
+,dateOfBirth,01/06/1961,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NANDHNI AADHAR 1.jpg
+,name,Puneesh Punam,Ramesh Punnam,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Puneesh adhaar copy_page1.jpg
+,aadharNumber,XXXX XXXX 6695,6695 1234 5678,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Puneesh adhaar copy_page1.jpg
+,pincode,560060,560001,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Puneesh adhaar copy_page1.jpg
+,mobileNumber,6361440346,917920710554,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Puneesh adhaar copy_page1.jpg
+,name,Royyi Venkata Ramana,MUDDADA CHARUKESWAR,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,dateOfBirth,01/07/1974,03/11/1974,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,gender,Male,Female,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,aadharNumber,XXXX XXXX 3599,3599 3599 0011,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,pincode,531055,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,mobileNumber,9494744282,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,address,"S/O: Appa Rao, 4-91, Valasapeta, Valasapeta, Visakhapatnam, Andhra Pradesh, 531055",,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ramana addhar_page1.jpg
+,name,Taarika Abishek Raju,Taanka Abishek Raju,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Tarika Aadhaar_page1.jpg
+,dateOfBirth,,1984,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Tarika Aadhaar_page1.jpg
+,aadharNumber,XXXX XXXX 4303,4303 4303 4303,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Tarika Aadhaar_page1.jpg
+,name,Boyi Venkata Ramana,MUDDADA CHARUKESWAR,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vivek addar card_page1.jpg
+,dateOfBirth,10/06/2002,22/05/1985,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vivek addar card_page1.jpg
+,aadharNumber,6810 XXXX XXXX,6810 4619 6708,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vivek addar card_page1.jpg
+,mobileNumber,9885588500,9885895000,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vivek addar card_page1.jpg
+,aadharNumber,xxxx xxxx 8532,8532 8532 8532,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MOHAMED AATHAR 2_page1.jpg
+,aadharNumber,XXXX XXXX 3048,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/venkatesh aadher 12_split_2_to_2_page1.jpg
+,name,Satnarayan,Satnayan,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SATYANARAYAN AADHAR_split_2_to_2_page1.jpg
+,aadharNumber,XXXX 4944 2848,603 4944 2848,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SATYANARAYAN AADHAR_split_2_to_2_page1.jpg
+,pincode,,9110000000,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SATYANARAYAN AADHAR_split_2_to_2_page1.jpg
+,mobileNumber,,9110000000,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SATYANARAYAN AADHAR_split_2_to_2_page1.jpg
+,address,,9110000000,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SATYANARAYAN AADHAR_split_2_to_2_page1.jpg
+,aadharNumber,4322,4322 9176 6649,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SCAN_Swathi_page1.jpg
+,aadharNumber,XXXX XXXX 9554,9554 7239 9554,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Daniel Aadhar_page1.jpg
+,mobileNumber,9830790820,9830790620,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR IMRAN KHAN _page1.jpg
+,name,,ROHITASHAW SHARMA,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhar mamta 2_page1.jpg
+,aadharNumber,XXXXXXXX6640,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhar mamta 2_page1.jpg
+,name,Christian Shaileshbhai Petrikbhai,Christian Shaileeshbhai Petrikbhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR - SHAILESH_page1.jpg
+,aadharNumber,XXXX XXXX 3683,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Swaroop Aadhaar_split_1_to_1_page1.jpg
+,dateOfBirth,,1973,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RADHAKRISHNAN AADHAR 1.jpeg
+,pincode,688011,680111,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RADHAKRISHNAN AADHAR 1.jpeg
+,mobileNumber,,4778530555,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RADHAKRISHNAN AADHAR 1.jpeg
+,dateOfBirth,,1982,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/__Adhar card of Jyoti masked (2)_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 1977,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/__Adhar card of Jyoti masked (2)_split_1_to_1_page1.jpg
+,name,Atul Dixit,Aul Dixit,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ATUL DIXIT.jpg
+,mobileNumber,,9172711441540809,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ATUL DIXIT.jpg
+,pincode,302016,202016,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/YOGESH AADHAR CARD MASK_page1.jpg
+,address,"S/O: Lal Chand Saini, A-8S, mukesh sadan, asind nagar, Shastri Nagar, Jaipur, Rajasthan - 302016","A-8S, mukesh sadan, ashok marg, aslimu nagar Pasipech, VTC: Jaipur, PO: Shami Nagar, Sub District: Jaipur, District: Jaipur, Sector: Rajasthan, PIN Code: 202016",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/YOGESH AADHAR CARD MASK_page1.jpg
+,aadharNumber,XXXX XXXX 5143,9833 358090,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JENSY Aadhar_page1.jpg
+,mobileNumber,9833358090,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JENSY Aadhar_page1.jpg
+,mobileNumber,9217035202,0217035202,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRABHA AADHAR_page1.jpg
+,name,N Chandrakala Jadhav,N Chandrakala Jadhaw,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/co app aadhar_page1.jpg
+,dateOfBirth,,1983,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SURENDER ADHAR_split_1_to_1_page1.jpg
+,aadharNumber,4800,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SURENDER ADHAR_split_1_to_1_page1.jpg
+,dateOfBirth,03/02/1988,02/02/1988,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR SUNDHARI_page1.jpg
+,name,S Tamilselvi,S TAMILSEVI,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAAR TAMILSELVI_page1.jpg
+,name,Savani Monika Digneshbhai,Sevani Monika Digneshbhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Screenshot 2025-09-18 112951.jpg
+,aadharNumber,XXXX XXXX 1855,9179 1985 7297 2792,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR  RENU_page1.jpg
+,mobileNumber,7227055568,911987060649,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BHAVISHABEN KYC_split_2_to_2_page1.jpg
+,name,Rabari Amratbhai,Rabani Amratbai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/30_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 3679,3391 4120 3679,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/usha aadhar card mask_page1.jpg
+,dateOfBirth,,1977,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/srith aadhar PHOTO.jpg
+,aadharNumber,XXXX XXXX 98,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/srith aadhar PHOTO.jpg
+,aadharNumber,XXXX XXXX 9016,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhar rohit 2_page1.jpg
+,aadharNumber,1441,1441 1441 1441,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/areeb aadhar_page1.jpg
+,dateOfBirth,06/05/2013,1979,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Abishek Aadhaar_page1.jpg
+,aadharNumber,XXXX XXXX 3443,3443 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Abishek Aadhaar_page1.jpg
+,mobileNumber,9845041130,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Abishek Aadhaar_page1.jpg
+,name,Pursvani Pradip,Purshwani Pradip,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/P DEED RK_split_11_to_12_page2.jpg
+,pincode,382475,382479,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/P DEED RK_split_11_to_12_page2.jpg
+,aadharNumber,1631 9150 0444 8122 6609,1631,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhaar 1_page1.jpg
+,mobileNumber,,9150044481226609,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhaar 1_page1.jpg
+,aadharNumber,XXXX XXXX 7954,9173 0515 7965 2522,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Co appli - Aadhar_page1.jpg
+,dateOfBirth,24/08/1952,24/08/1962,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ACHINTYA AADHAR_page1.jpg
+,name,B Santhosh,B Santosh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar app.jpg
+,aadharNumber,XXXX XXXX 5099,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/LOKESH AADHAR BACK.jpg
+,aadharNumber,XXXX XXXX 6456,9172 0135 1653 5717,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aadhar hemant_split_1_to_1_page1.jpg
+,dateOfBirth,16/02/1980,16/02/1950,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/chinta devi aadhaar_page1.jpg
+,aadharNumber,47XXXXXXXX70,47 XX XX 70,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/chinta devi aadhaar_page1.jpg
+,mobileNumber,9903179474,9500179474,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/chinta devi aadhaar_page1.jpg
+,aadharNumber,XXXX XXXX 9349,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_Adhar card - sarla s_page2.jpg
+,aadharNumber,9168,9168 6026 8111 8625,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Mohamed aadhar_page1.jpg
+,name,Bharati,KUMARA,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR BHARATHI_page1.jpg
+,dateOfBirth,,1985,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR BHARATHI_page1.jpg
+,aadharNumber,XXXX XXXX 7583,7583 7583 7583,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR BHARATHI_page1.jpg
+,aadharNumber,XXXX XXXX 9554,9554 7239 9554,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/tinu aadhar_split_17_to_18_page1.jpg
+,name,,KUMAR SURESH,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,dateOfBirth,,01/01/1980,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,gender,,Male,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,aadharNumber,2668 7216 5929,1234 5678 9012,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,pincode,360022,110001,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,mobileNumber,,9876543210,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,address,"Jay Shree Krishna Gupta, Police Station Road, Near Police Station Kothara Main Road, Kothara, Kothara (Rural), Rajkot, Kothara, Rajkot, Gujarat, 360022","123, Main Street, Near Park, Sector 5, New Delhi, Delhi - 110001",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARTNERSHIP DEED_split_7_to_8_page2.jpg
+,aadharNumber,,9635 8403 87,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MAMTAZ AADHAAR_page1.jpg
+,mobileNumber,9635840387,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MAMTAZ AADHAAR_page1.jpg
+,aadharNumber,XXXX XXXX 6093,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/adhar janvi_split_2_to_2_page1.jpg
+,dateOfBirth,,1980,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Alok Addhar_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 7675,XXXX XXXX 675,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Alok Addhar_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 8077,8077 84 5425,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/venkatalakshmi aadhar_split_2_to_2_page1.jpg
+,mobileNumber,9411835560,9441835560,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/venkatalakshmi aadhar_split_2_to_2_page1.jpg
+,name,,Rajendra Shete,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SHOBHA -ADHAR 1.jpg
+,aadharNumber,2924 2350 5125,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/SHOBHA -ADHAR 1.jpg
+,aadharNumber,XXXX XXXX 7841,7841 7841 1947,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JYOTHI ADHAR_split_1_to_1_page1.jpg
+,name,Kanchan Chandrkant Gavare,Kanchan Chandrikant Gavare,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KANCHAN ADHAR 1.jpg
+,name,Kaluram Kisan Kendale,Kailur Kisan Kendale,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/kaluram adhar_page1.jpg
+,aadharNumber,XXXX XXXX 9989,9989 9136 7699,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/kaluram adhar_page1.jpg
+,name,T. Venkateswara Rao,T. Vankara Akhij,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar sir_page1.jpg
+,dateOfBirth,14/07/1981,19/12/2000,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar sir_page1.jpg
+,pincode,534101,671001,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar sir_page1.jpg
+,mobileNumber,9848130435,914361403394,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar sir_page1.jpg
+,address,"S/O Achamma, D No 121-370/1, Hanuman Street, Tadepalligudem Rural, V.T.C. Center, Tadepalligudem, West Godavari, Andhra Pradesh - 534101","Tamanikonda Village Kuthi, GTH Adhanaka, Trivandrum, Kerala, 671001, India",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar sir_page1.jpg
+,name,Ragini Sinha,Rajni Sinha,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ragini Adhar+pan card_split_1_to_2_page1.jpg
+,dateOfBirth,10/01/1972,10/01/1977,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ragini Adhar+pan card_split_1_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 1586,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR PRIYANKA _split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 1021,9101 4370 4330 8732,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/amit uid_split_1_to_1_page1.jpg
+,aadharNumber,98XXXXXXXX40,98 XXXX 40,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PAN & Adhar Indu_split_2_to_2_page1.jpg
+,dateOfBirth,21/11/1975,28/11/1975,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KAILESH ADHAR CARD_page1.jpg
+,aadharNumber,____ ____ 1140,1140,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA E AADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 0864,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MRINAL ADHAR_page2.jpg
+,aadharNumber,XXXXXXXX6487,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/KANCHAN ADHAR 2.jpg
+,name,Vishal Machare,Vishal Macharo,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vishal adhar_page1.jpg
+,dateOfBirth,06/11/1978,06/11/1970,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vishal adhar_page1.jpg
+,pincode,580023,500023,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vishal adhar_page1.jpg
+,name,Samjuben Bhavik Gadhiya,Samjuben Bhavik Gadiya,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/SAMJU_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 4116,4116 XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Prashant Adhar card_page1.jpg
+,name,Nagarathnamma,Nagarainamma,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Nagarathnamma Aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 8797,XXXX 9420 8797,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/prasad aadhar_split_1_to_1_page1.jpg
+,aadharNumber,5550,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/MOKSHDEEP SINGH AADHAR_split_1_to_1_page1.jpg
+,dateOfBirth,25/08/1976,05/08/1976,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar_card_page1.jpg
+,aadharNumber,XXXX XXXX 0403,0403 9780 1378,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PARAMMA AADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 9050,XXXX XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR CARD SUNIL PATIDAR_split_1_to_1_page1.jpg
+,name,Pankaj Nandkishore Mehta,Pankaj Nandikishore Mehta,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PANKAJ AADHAR_page1.jpg
+,name,Balram G Menon,Bairam G Menon,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar card_Balram_page1.jpg
+,aadharNumber,88XXXXXXXX62,8862 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/PAN & Adhar Shashibhushan_split_3_to_3_page1.jpg
+,aadharNumber,2144,2144 2144 2144,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANSHUL_page1.jpg
+,mobileNumber,8008907154,80091754,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Tejaswi E Adhar_page1.jpg
+,aadharNumber,XXXX XXXX 9465,9152 3337 8247 1292,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/DEEPA AADHAR_split_1_to_1_page1.jpg
+,name,Aungsuman Chowdhury,Aungsuman Choudhury,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AUNGSUMAN ADHARCARD_page1.jpg
+,dateOfBirth,24/04/1990,24/04/1980,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AUNGSUMAN ADHARCARD_page1.jpg
+,dateOfBirth,06/06/1991,06/08/1981,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Co Appli AADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 0142,20523 1745 22153,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Co Appli AADHAR_page1.jpg
+,mobileNumber,9642995555,9642905555,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Co Appli AADHAR_page1.jpg
+,name,Prahalad Saini,Prahalaad Saini,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Prahlad Saini Adhar Card_split_1_to_1_page1.jpg
+,mobileNumber,9776008199,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AYUSH ADHARCARD_page1.jpg
+,aadharNumber,XXXXXXXX0642,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Adhar card - sandeep s_page2.jpg
+,aadharNumber,XXXX XXXX 8046,8046 6149,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR CARD_page1.jpg
+,aadharNumber,XXXX XXXX 1200,XXXX XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Co aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 2431,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/KYC-aadhaar_back.jpg
+,aadharNumber,7067,7067 103 1289,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Karthikeyan aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 3380,9125 6706 4683 4150,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/nafees aadhar_page1.jpg
+,dateOfBirth,23/12/1999,23/12/1969,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KAMAL AADHAAR_page1.jpg
+,pincode,700064,700084,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KAMAL AADHAAR_page1.jpg
+,aadharNumber,XXXX XXXX 5112,5112 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR VINAY_page1.jpg
+,mobileNumber,9890997312,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR VINAY_page1.jpg
+,mobileNumber,9123128808,911971086523,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARATHNA ADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 1120,9582 8797 54,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR SANJEEV _split_1_to_1_page1.jpg
+,mobileNumber,9582879754,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/AADHAR SANJEEV _split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 8379,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/_AADHAR kusbu devi_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 2431,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KYC-aadhaar_front.jpg
+,aadharNumber,XXXX XXXX 1683,9109 1511 0468 9644,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Harish Adhaar_page1.jpg
+,name,Ramesh Baban Hilal,Ramosh Baban Hilal,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ramesh Aadhar card_page1.jpg
+,dateOfBirth,07/07/1987,07/07/1907,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ramesh Aadhar card_page1.jpg
+,aadharNumber,XXXXXXXX5573,9175 6580 9225 9426,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ramesh Aadhar card_page1.jpg
+,mobileNumber,,9175658092259426,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ramesh Aadhar card_page1.jpg
+,aadharNumber,,XXXX XXXX 2465,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/OM AADHAAR_page1.jpg
+,mobileNumber,9874349888,9874345688,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/OM AADHAAR_page1.jpg
+,aadharNumber,XXXX XXXX 1999,1999 1110 4592,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHASHI AADHAAR_page1.jpg
+,aadharNumber,,XXXX XXXX 0606,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Venkataswamy Aadhar_page1.jpg
+,address,"S/O: Sadhappa, # 07, 5th Cross, Oppsite Road Of Steel Authority Of India, Dayanand Layout , Ramamurthy Nagar, Bangalore North, Bengaluru, Doorvaninagar, Karnataka, 560016",,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Venkataswamy Aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 4606,9199 5248 0498 5078,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/PRITI AADHAAR_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 5615,9186 9977 0113,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamuna Adhaar_page1.jpg
+,mobileNumber,,918699770113,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Jamuna Adhaar_page1.jpg
+,name,Patel Hemal Naranbhai,Patel Hemal Narambhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/HEMAL AADHAR_page1.jpg
+,name,Laljibhai Meramanbhai Jalu,POPAT CHAVADIYA,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Labhubhai_page1.jpg
+,aadharNumber,9122 6498 1025 7446,4167 1025 7446,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Labhubhai_page1.jpg
+,mobileNumber,9429300007,9122616981,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Labhubhai_page1.jpg
+,address,"Jay Shree Krushn, Gujarat Housing Board, Opp Ranuja mandir Police Station, Kothariya main road, VTC: Kothariya (Part), PO: Kotharia (Rajkot), Sub District: Rajkot, District: Rajkot, State: Gujarat, 360022","Labhubai Merambhai Jalu, Kothariya (Part), VTC: Kothariya (Part), PO: Kothariya (Rajkot), Sub District: Rajkot, District: Rajkot, State: Gujarat, PIN Code: 360022",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Labhubhai_page1.jpg
+,name,Prashant Kashinath Limbhore,Prahlant Kashinath Limbhore,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRATNERSHIP DEED_split_9_to_9_page1.jpg
+,dateOfBirth,28/05/1992,28/03/1992,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRATNERSHIP DEED_split_9_to_9_page1.jpg
+,name,Jalu Nimisha Ambhalbhai,Jalu Nimisha Abhalbhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Nimishaben_page1.jpg
+,aadharNumber,,6609 9173 2164,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Nimishaben_page1.jpg
+,aadharNumber,XXXX XXXX 4583,9193 0457 6432 1756,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar supriya_page1.jpg
+,name,,Amandeep Singh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar preeti_page2.jpg
+,aadharNumber,XXXX XXXX 2167,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar preeti_page2.jpg
+,aadharNumber,XXXX XXXX 5728,5728 5728 5728,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar card of priya.jpg
+,name,Loyala Jerald Gnanaprakasam,G. MUTHUKUMAR,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/jerald adhar_page1.jpg
+,aadharNumber,XXXX XXXX 6523,6523 6523 6523,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/jerald adhar_page1.jpg
+,name,N Shivananda,N Shivandana,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHIVANANDA AADHAR_page1.jpg
+,name,Raji Mahadev Ravariya,Raj Mahadev Ravariya,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Raji Aadhar card_split_1_to_1_page1.jpg
+,aadharNumber,XXXXXXXX6273,9120 5499 0940 1418,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KYC-aadhaar_front-1.jpg
+,name,,Sachin Verma,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Anjana Addhar_split_2_to_2_page1.jpg
+,aadharNumber,XXXXXXXX3576,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Anjana Addhar_split_2_to_2_page1.jpg
+,aadharNumber,9785,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/raghav adhar (1)_page1.jpg
+,mobileNumber,9035530331,9185085688579349,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/DHANALAKSHMI AADHAR_page1.jpg
+,name,Akash Rushwah,Altash Rushwsh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AAKASH AADHAR_page1.jpg
+,name,Chandrakant Vasant Gawari,Chandrakant Vasant Gawani,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/CHNDRAKANT ADHAR.jpg
+,name,Nilaben Rakeshbhai Patel,Nandan Prasad Sahithal Patel,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aadhar_front_page1.jpg
+,dateOfBirth,,1961,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aadhar_front_page1.jpg
+,name,Jafarudden,Jafarudden Isab khan,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JAFARUDDIN ADHAR_page1.jpg
+,aadharNumber,660791718188,6607 18188 1039,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JAFARUDDIN ADHAR_page1.jpg
+,name,Svamaan Financial Services Private Limited,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Svamaan KYC.jpg
+,aadharNumber,XXXX XXXX 4973,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/App Adhar_page1.jpg
+,aadharNumber,XXXX XXXX 1851,XXXX XXXX ####,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR - ANJANA_page1.jpg
+,aadharNumber,474XXXXX70,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/chinta devi aadhaar_page2.jpg
+,pincode,713364,713584,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Rina Aadhar_page1.jpg
+,aadharNumber,7791 XXXX 1431,XXXX XXXX 7791,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRIYANKA ADHARCARD_page1.jpg
+,aadharNumber,,6874 9151 9444,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ajay adhar_page1.jpg
+,mobileNumber,9011022747,9151944496758596,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Ajay adhar_page1.jpg
+,dateOfBirth,20/04/1981,20/11/1981,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Haneef Aadhar_page1.jpg
+,pincode,574153,374153,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Haneef Aadhar_page1.jpg
+,aadharNumber,5191,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/_Balbir Adhar Card_split_1_to_1_page1.jpg
+,dateOfBirth,29/09/1993,29/09/1983,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAURAV ADHARCARD_page1.jpg
+,aadharNumber,XXXX XXXX 7029,7029 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAURAV ADHARCARD_page1.jpg
+,name,,Amandeep Singh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhar preeti_split_2_to_2_page1.jpg
+,aadharNumber,XXXXXXXX2167,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhar preeti_split_2_to_2_page1.jpg
+,name,,Amarjit Singh,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MOKSHDEEP SINGH AADHAR_split_2_to_2_page1.jpg
+,aadharNumber,5550,9154 3447 2451 0276,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MOKSHDEEP SINGH AADHAR_split_2_to_2_page1.jpg
+,dateOfBirth,01/03/1951,19/05/1951,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NANDHNI MARSKED AADHAR 1.jpg
+,address,"W/O: S Nagarajan, 19/1023 , Lakshmi Sadanam, Kottakakkom, Thondankulangara, Chungom, Alappuzha, Kerala - 688011","19/02, Lakshmi Sadanam, (duilakkil tugulilakkal (oimt), Chungom, Alabouzha, Kgrala - 688011",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NANDHNI MARSKED AADHAR 1.jpg
+,aadharNumber,XXXX XXXX 6034,6034 7827 9173,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR PARUL_page1.jpg
+,aadharNumber,XXXX XXXX 7988,7988 70 5181,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/MAnjunath Adhar_page1.jpg
+,dateOfBirth,05/01/1986,06/01/1986,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/aakash aadhar_split_1_to_1_page1.jpg
+,aadharNumber,2756 9442 7559,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Anil aadhar_split_2_to_2_page1.jpg
+,aadharNumber,7753,7753 9110 3601,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Gavin_page1.jpg
+,aadharNumber,XXXX XXXX 5026,5026 9130 7927,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/adhar card vikas.jpg
+,mobileNumber,7506103376,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_DEBOTTAM AADHAR-1_page1.jpg
+,name,Narayanam Venkata Siva Pradeep,Narayanan Venkata Siva Pradeep,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Apl aadhar_page1.jpg
+,dateOfBirth,20/06/1989,20/03/1989,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Jyotiben_page1.jpg
+,aadharNumber,9127 2213 6405,0656 9127 2213,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Jyotiben_page1.jpg
+,aadharNumber,XXXX XXXX 8551,8551 640 6046,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RAM PRASAD ADHARCARD_page1.jpg
+,aadharNumber,4837 0279 6275,XXXX XXXX 6275,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/LALITA - AADHAR_split_1_to_1_page1.jpg
+,name,Noor Basha Maslan Bee,Noor Basha Mastan Bee,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/co applicant Aadhar card pan card_split_1_to_1_page1.jpg
+,dateOfBirth,,1962,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/co applicant Aadhar card pan card_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 9514,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Aparna Aadhar Card_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 9875,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhaar_back.jpg
+,mobileNumber,,9197865763453132,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/aadhaar_back.jpg
+,name,Makvana Vasantben Vinodbhai,Makvana Vasanthben Vinodbhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR - vasantben_page1.jpg
+,name,Roopashree C,Gadipati & Roopashree C,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Screenshot 2025-09-18 113006.jpg
+,pincode,560061,560041,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Screenshot 2025-09-18 113006.jpg
+,mobileNumber,9432643767,9432643787,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NARESH ADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 6078,9196 4756 9600 8356,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KYC - Dileep Kumar_split_3_to_3_page1.jpg
+,name,Grandhi Kodanda Rama Naga Venkata Anasurya Ambica Devi,Grandhi Kodanda Rama Naga Venkata Anasuya Ambica Devi,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Smt G.K.R.V.N.A.Ambica Devi Masked Aadhar_page1.jpg
+,aadharNumber,XXXX XXXX 6883,6883 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/neelam adhar_page1.jpg
+,aadharNumber,XXXX XXXX 8182,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/asmita aadhar card_page1.jpg
+,aadharNumber,XXXX XXXX 8125,8125 6630 8767,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/co applicant Aadhar card pan card_split_2_to_2_page1.jpg
+,mobileNumber,9945898363,9845898363,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/vijaya aadhar card_page1.jpg
+,aadharNumber,XXXX XXXX 2016,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/VIRENDRA ADHAR CARTD B_page1.jpg
+,name,Rabari Amratbhai,Rabani Amrabhai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/31_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 8505,9179 8699 0755 7316,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Padmavathi Aadhar_2_page1.jpg
+,aadharNumber,XXXX XXXX 8576,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KYC-aadhaar_front-2.jpg
+,aadharNumber,XXXX XXXX 1891,1891 XXXX XXXX,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/Ganga aadhar card scan_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 9272,9105 8111 3208 226,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/VIJAY AADHAR_page1.jpg
+,name,,Ashok Kumar Jain,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR ARTI _split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 4380,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR ARTI _split_2_to_2_page1.jpg
+,name,Kammari Andalu,Kannari Andala,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhaar_20250422125224 (3) (1)_page1.jpg
+,name,,AJIT KUMAR AGRAWAL,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR BACK.jpeg
+,aadharNumber,XXXX XXXX 7045,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR BACK.jpeg
+,name,Shyam Lal Kewat,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/InkedVipin Aadhaar Back_LI.jpg
+,aadharNumber,XXXX XXXX 1887,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/InkedVipin Aadhaar Back_LI.jpg
+,name,Dudhat Bhailalbhai,Dudhat Bhailalbhā,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page2.jpg
+,dateOfBirth,24/11/1970,24/11/1976,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page2.jpg
+,name,Jalu Prakash Labhubhai,"MARU AADHAR, MARU AADHAR",/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Prakashbhai_page1.jpg
+,aadharNumber,9151 9534 5365 4871,1724 9151 9534 5365,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Prakashbhai_page1.jpg
+,mobileNumber,,915195345365,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Prakashbhai_page1.jpg
+,name,Banti Kushwah,Banli Kushwah,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BANTI AADHAR_page1.jpg
+,dateOfBirth,02/04/1986,02/04/1966,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BANTI AADHAR_page1.jpg
+,aadharNumber,XXXX XXXX 3123,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Inkedmother aadhaar back_LI.jpg
+,aadharNumber,6674 3003 5045,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Sindhu aadhar_split_2_to_2_page1.jpg
+,aadharNumber,4163 5631 7411,4163 31 7411,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/satyendra adhar.jpg
+,aadharNumber,7670 3422 0981,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/addhar valjeeet singh_page2.jpg
+,name,,RAMAN VAGADIVA,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR - JAYSHREE_split_2_to_2_page1.jpg
+,aadharNumber,XXXX XXXX 8916,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/AADHAR - JAYSHREE_split_2_to_2_page1.jpg
+,name,Desai Jayantibhai Nagjibhai,DESAR JAYANTHAI NAGIBHAI,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JAYANTI ADHAR_page1.jpg
+,aadharNumber,9173 1438 9775,8098 1438 9775,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JAYANTI ADHAR_page1.jpg
+,mobileNumber,9825040075,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/JAYANTI ADHAR_page1.jpg
+,name,Victor Bastin V S,Victor Bastin VS,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar applicant_page1.jpg
+,dateOfBirth,,1957,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar applicant_page1.jpg
+,aadharNumber,XXXX XXXX 4398,,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/ASHA ADHAR_split_1_to_1_page1.jpg
+,aadharNumber,XXXX XXXX 2804,9147 4144 9029 4402,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_front/KARTHIK AADHAR_split_1_to_1_page1.jpg
+,name,,S/O: Amadurai,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/KYC-aadhaar_back-1.jpg
+,aadharNumber,XXXX XXXX 4261,9169 6649 8237 2728,/mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/KYC-aadhaar_back-1.jpg

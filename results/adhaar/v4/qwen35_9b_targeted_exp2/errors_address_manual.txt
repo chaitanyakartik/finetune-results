@@ -1,0 +1,237 @@
+Address Errors — qwen35_9b_targeted_exp2  (26/66 non-exact)
+
+==========================================================================================
+
+[APP UID MAXED_page1.jpg]  CER=0.304
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/APP UID MAXED_page1.jpg
+  GT  : C/O Alagani Nagabhushanam Goud, S-3-839/3, Salhevadana Nagar, VTC: Vanamalipatam, PO: Vanasalipatam, Sub Dt: Hayathnagar, District: R.R. District, State: Telangana, PIN Code: 500070
+  PRED: C/A1 Alagani Nagabhushaman Goud, S-3-839/3, Salherahana Nagar, VTC: Vanamilipatam, PU: Vanassalipatam, Sob Dtartcr: Heyamaagar, Districti K.r. Rangarsdithv, State: Telangana, PIN Code: 300070, Mande: S333863599
+  DIFF-GT  : C/O A···lagani Nagabhushanam Goud, S-3-839/3, Salhevadana Nagar, VTC: Vanamalipatam, PO: Vanas·alipatam, Sub Dt·····: Hayathnagar, District:····· R.R. District, State: Telangana, PIN Code: ······················500070
+  DIFF-PRED: C/··A1 Alagani Nagabhushaman Goud, S-3-839/3, Salherahana Nagar, VTC: Vanamilipatam, PU: Vanassalipatam, Sob Dtartcr: Heyama·agar, Districti K.r. Rangarsdithv·, State: Telangana, PIN Code: 300070, Mande: S333863599···
+  MARKS    :   ^^ ^^^                 ^^^                       ^^^                     ^          ^       ^           ^    ^^^^^   ^  ^^^              ^^^^^^  ^^^^^^^^^^^^                              ^^^^^^^^^^^^^^^^^^^^^^ ^^^^^
+------------------------------------------------------------------------------------------
+
+[_SATISH AADHAR-1_page1.jpg]  CER=0.176
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/_SATISH AADHAR-1_page1.jpg
+  GT  : FLAT NO. A1005, SAI VIHAR CHS, SECTOR 15 CBD BELAPUR, VTC: Navi Mumbai, PO: Konkan Bhavan, District: Thane, State: Maharashtra, PIN Code: 400614
+  PRED: FLAT NO. A1005, SAI VIHAR CHS, SECTOR 15 CBD BELAPUR, Navi Mumbai, PO: Konkan Bhavan, DIST: Thane, Maharashtra - 400614
+  DIFF-GT  : FLAT NO. A1005, SAI VIHAR CHS, SECTOR 15 CBD BELAPUR, VTC: Navi Mumbai, PO: Konkan Bhavan, District: Thane, State: Maharashtra, PIN Code: 400614
+  DIFF-PRED: FLAT NO. A1005, SAI VIHAR CHS, SECTOR 15 CBD BELAPUR, ·····Navi Mumbai, PO: Konkan Bhavan, DIST····: Thane,······· Maharashtra· -········ 400614
+  MARKS    :                                                       ^^^^^                                 ^^^^^^^        ^^^^^^^            ^ ^^^^^^^^^       
+------------------------------------------------------------------------------------------
+
+[S Marulesh Adhar_page1.jpg]  CER=0.174
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/S Marulesh Adhar_page1.jpg
+  GT  : S/O Sonnamarappa, #57, Doddabettahalli, Bangalore North, Vidyaranyapura, Bangalore, Karnataka, 560097
+  PRED: S/O Sonnamarappa #57, Doddabettahalli Bangalore North, Vidyaranyapura Bangalore North Bangalore, Karnataka 560097
+  DIFF-GT  : S/O Sonnamarappa, #57, Doddabettahalli, Bangalore North, Vidyaranyapura,··············· Bangalore, Karnataka, 560097
+  DIFF-PRED: S/O Sonnamarappa· #57, Doddabettahalli· Bangalore North, Vidyaranyapura Bangalore North Bangalore, Karnataka· 560097
+  MARKS    :                 ^                     ^                                ^^^^^^^^^^^^^^^^                     ^       
+------------------------------------------------------------------------------------------
+
+[POWER OF ETERNI __split_22_to_23_page1.jpg]  CER=0.163
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/POWER OF ETERNI __split_22_to_23_page1.jpg
+  GT  : S/O: Vrejal, 1-301, crimson avenue, maple county-1, shila, Shila, Ahmedabad, Gujarat - 380058
+  PRED: F-301, crimson avenue, maple county-1, shilaj, Shilaj, Ahmedabad, Gujarat - 380058
+  DIFF-GT  : S/O: Vrejal, 1-301, crimson avenue, maple county-1, shila·, Shila·, Ahmedabad, Gujarat - 380058
+  DIFF-PRED: F·············-301, crimson avenue, maple county-1, shilaj, Shilaj, Ahmedabad, Gujarat - 380058
+  MARKS    : ^^^^^^^^^^^^^^                                           ^       ^                             
+------------------------------------------------------------------------------------------
+
+[aadhar raja_page1.jpg]  CER=0.146
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aadhar raja_page1.jpg
+  GT  : S/O: Natesan, 5/7, SAMIYAR THOTTAM, VILLIVAKKAM, Villivakkam, Tiruvallur, Tamil Nadu, 600049
+  PRED: S/O: Natesan, 5/7, SAMIYAR THOTTAM, VILLIVAKKAM, Villivakkam, Tiruvallur, Villivakkam, Tamil Nadu, 600049
+  DIFF-GT  : S/O: Natesan, 5/7, SAMIYAR THOTTAM, VILLIVAKKAM, Villivakkam, Tiruvallur, ·············Tamil Nadu, 600049
+  DIFF-PRED: S/O: Natesan, 5/7, SAMIYAR THOTTAM, VILLIVAKKAM, Villivakkam, Tiruvallur, Villivakkam, Tamil Nadu, 600049
+  MARKS    :                                                                           ^^^^^^^^^^^^^                  
+------------------------------------------------------------------------------------------
+
+[ADHAR ANKUR_page1.jpg]  CER=0.128
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ADHAR ANKUR_page1.jpg
+  GT  : 18, Tirupati Asian Greenz, Sadatpura, PO: Sapawada, DIST: Sabarkantha, Gujarat - 383430
+  PRED: 18, Tirupati Asian Greenz, sadatpura, Sadatpura, PO: Sapawada, DIST: Sabarkantha, Gujarat - 383430
+  DIFF-GT  : 18, Tirupati Asian Greenz···········, Sadatpura, PO: Sapawada, DIST: Sabarkantha, Gujarat - 383430
+  DIFF-PRED: 18, Tirupati Asian Greenz, sadatpura, Sadatpura, PO: Sapawada, DIST: Sabarkantha, Gujarat - 383430
+  MARKS    :                          ^^^^^^^^^^^                                                              
+------------------------------------------------------------------------------------------
+
+[ANITA AADHAR_page1.jpg]  CER=0.110
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/ANITA AADHAR_page1.jpg
+  GT  : W/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambernath East, Ambarnath, Ambarnath, Thane, Maharashtra, 421501
+  PRED: W/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambemath East, Ambarnath, Ambemath, Thane, Ambarnath, Maharashtra, 421501
+  DIFF-GT  : W/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambernath East, Ambarnath, Ambarnath, Thane···········, Maharashtra, 421501
+  DIFF-PRED: W/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambem·ath East, Ambarnath, Ambem·ath, Thane, Ambarnath, Maharashtra, 421501
+  MARKS    :                                                                                          ^^                        ^^^          ^^^^^^^^^^^                     
+------------------------------------------------------------------------------------------
+
+[Prabhakar Aadhar_page1.jpg]  CER=0.108
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Prabhakar Aadhar_page1.jpg
+  GT  : S/O: Bommaiah, #668, 2nd Main, 11th Block, B G National School, Nagarabhavi 2nd Stage, Bangalore North, Bangalore Karnataka - 560072
+  PRED: #669, 2nd Main, 11th Block, B G National School, Nagarabhavi 2nd Stage, Bangalore North, Bangalore Karnataka - 560072
+  DIFF-GT  : S/O: Bommaiah, #668, 2nd Main, 11th Block, B G National School, Nagarabhavi 2nd Stage, Bangalore North, Bangalore Karnataka - 560072
+  DIFF-PRED: ···············#669, 2nd Main, 11th Block, B G National School, Nagarabhavi 2nd Stage, Bangalore North, Bangalore Karnataka - 560072
+  MARKS    : ^^^^^^^^^^^^^^^   ^                                                                                                                 
+------------------------------------------------------------------------------------------
+
+[AADHAR ROHAN_page1.jpg]  CER=0.105
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR ROHAN_page1.jpg
+  GT  : Flat No-35, Swagat Apartments, Sahawas Society, Karvenagar, Behind Umesh Super Market, Pune City, Pune, Maharashtra - 411052
+  PRED: Flat No-35, Swagat Apartments, Sahawas Society, Karvenagar, Behind Umesh Super Market, Pune City, Navsahyadri, Pune Maharashtra - 411052
+  DIFF-GT  : Flat No-35, Swagat Apartments, Sahawas Society, Karvenagar, Behind Umesh Super Market, Pune City, ·············Pune, Maharashtra - 411052
+  DIFF-PRED: Flat No-35, Swagat Apartments, Sahawas Society, Karvenagar, Behind Umesh Super Market, Pune City, Navsahyadri, Pune· Maharashtra - 411052
+  MARKS    :                                                                                                   ^^^^^^^^^^^^^    ^                     
+------------------------------------------------------------------------------------------
+
+[Aadhar Mila_page1.jpg]  CER=0.074
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Aadhar Mila_page1.jpg
+  GT  : W/O Victor Bastin V S, 44/1672 Vadassery, Puthiya Road, Kaloor, Kaloor North, Ernakulam, Kerala, 682017
+  PRED: W/O Victor Bastin V S, 44/1672 Vadassery, Puthiya Road, Kaloor, Kaloor North, Kaloor, Ernakulam, Kerala, 682017
+  DIFF-GT  : W/O Victor Bastin V S, 44/1672 Vadassery, Puthiya Road, Kaloor, Kaloor North, ········Ernakulam, Kerala, 682017
+  DIFF-PRED: W/O Victor Bastin V S, 44/1672 Vadassery, Puthiya Road, Kaloor, Kaloor North, Kaloor, Ernakulam, Kerala, 682017
+  MARKS    :                                                                               ^^^^^^^^                         
+------------------------------------------------------------------------------------------
+
+[SAYANTAN ADHARCARD_page1.jpg]  CER=0.053
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SAYANTAN ADHARCARD_page1.jpg
+  GT  : S/O: Naresh Paul, 347/3/4, dum dum road, South Dumdum (m), North 24 Parganas, Motijheel, West Bengal, 700074
+  PRED: S/O: Naresh Paul, 347/3/4, dum dum road, South Dumdum (m), North 24 Parganas, Mulijhali, West Bengal, 700074
+  DIFF-GT  : S/O: Naresh Paul, 347/3/4, dum dum road, South Dumdum (m), North 24 Parganas, Motijheel·, West Bengal, 700074
+  DIFF-PRED: S/O: Naresh Paul, 347/3/4, dum dum road, South Dumdum (m), North 24 Parganas, Mulijha·li, West Bengal, 700074
+  MARKS    :                                                                                ^^   ^^ ^                     
+------------------------------------------------------------------------------------------
+
+[NAGARAJA AADHAR 1.jpeg]  CER=0.031
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAGARAJA AADHAR 1.jpeg
+  GT  : S/O: Sreenivasa Reddiar, 14/1044, Lakshmi Sadanam, Mullakkal Ward, Muliakkai (part), Alappuzha, Kerala 688011
+  PRED: S/O: Sreenivasa Reddiar, 14/1044, Lakshmi Sadanam, Mullakkal Ward, Mullakkal (part), Alappuzha, Kerala 689011
+  DIFF-GT  : S/O: Sreenivasa Reddiar, 14/1044, Lakshmi Sadanam, Mullakkal Ward, Muliakkai (part), Alappuzha, Kerala 688011
+  DIFF-PRED: S/O: Sreenivasa Reddiar, 14/1044, Lakshmi Sadanam, Mullakkal Ward, Mullakkal (part), Alappuzha, Kerala 689011
+  MARKS    :                                                                       ^    ^                             ^   
+------------------------------------------------------------------------------------------
+
+[aruna addhar card_page1.jpg]  CER=0.029
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/aruna addhar card_page1.jpg
+  GT  : W/O Boyi Venkata Ramana, D No 4-91, Yathapeta Road, Near Bsnl Cell Tower, Anandapuram Mandalam, Kallivanipalem, Visakhapatnam, Andhra Pradesh - 531163
+  PRED: W/O Boyil Venkata Ramana, D No 4-91, Yathapeta Road, Near Bsrl Cell Tower, Anandapuram Mandalam, kallanipalem, Visakhapatnam Andhra Pradesh - 531163
+  DIFF-GT  : W/O Boyi· Venkata Ramana, D No 4-91, Yathapeta Road, Near Bsnl Cell Tower, Anandapuram Mandalam, Kallivanipalem, Visakhapatnam, Andhra Pradesh - 531163
+  DIFF-PRED: W/O Boyil Venkata Ramana, D No 4-91, Yathapeta Road, Near Bsrl Cell Tower, Anandapuram Mandalam, kall··anipalem, Visakhapatnam· Andhra Pradesh - 531163
+  MARKS    :         ^                                                   ^                                    ^   ^^                       ^                        
+------------------------------------------------------------------------------------------
+
+[NAVIN ADDHAR_page1.jpg]  CER=0.021
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/NAVIN ADDHAR_page1.jpg
+  GT  : S/O Ashok Kumar Sinha, 509, SHIVANGAN, NEAR VAISHALI METRO STATION, VAISHALI SECTOR- 4, I.E Sahibabad, PO: I.e sahibabad, DIST: Ghaziabad, Uttar Pradesh, 201010
+  PRED: S/O Ashok Kumar Sinha, 509 SHIVANGAN, NEAR VAISHALI METRO STATION, VAISHALI SECTOR- 4, I.E Sahibabad, PO: Sahibabad, DIST: Ghaziabad, Uttar Pradesh, 201010
+  DIFF-GT  : S/O Ashok Kumar Sinha, 509, SHIVANGAN, NEAR VAISHALI METRO STATION, VAISHALI SECTOR- 4, I.E Sahibabad, PO: I.e sahibabad, DIST: Ghaziabad, Uttar Pradesh, 201010
+  DIFF-PRED: S/O Ashok Kumar Sinha, 509· SHIVANGAN, NEAR VAISHALI METRO STATION, VAISHALI SECTOR- 4, I.E Sahibabad, PO: S····ahibabad, DIST: Ghaziabad, Uttar Pradesh, 201010
+  MARKS    :                           ^                                                                                ^^^^^                                                
+------------------------------------------------------------------------------------------
+
+[Banu Aadhar_page1.jpg]  CER=0.018
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Banu Aadhar_page1.jpg
+  GT  : C/o N Madasamy, Old no 23 New no 61, Adam sahib street, Royapuram, Royapuram, PO:Royapuram, DIST:Chennai, Tamil Nadu, 600013
+  PRED: C/o N Madasamy, Old no 23 New no 61, Adam sahib street, Royapuram, Royapuram, PO: Royapuram, DIST: Chennai, Tamil Nadu, 600013
+  DIFF-GT  : C/o N Madasamy, Old no 23 New no 61, Adam sahib street, Royapuram, Royapuram, PO:·Royapuram, DIST:·Chennai, Tamil Nadu, 600013
+  DIFF-PRED: C/o N Madasamy, Old no 23 New no 61, Adam sahib street, Royapuram, Royapuram, PO: Royapuram, DIST: Chennai, Tamil Nadu, 600013
+  MARKS    :                                                                                  ^                ^                           
+------------------------------------------------------------------------------------------
+
+[AADHAR JASWANT _page1.jpg]  CER=0.012
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/AADHAR JASWANT _page1.jpg
+  GT  : 256 1st floor, block-c-2, janak puri, Janakpuri B-1, Janakpuri B-1, West Delhi, Delhi, 110058
+  PRED: 256 1st floor, block-c-2, janakpuri, Janakpuri B-1, Janakpuri B-1, West Delhi, Delhi, 110058
+  DIFF-GT  : 256 1st floor, block-c-2, janak puri, Janakpuri B-1, Janakpuri B-1, West Delhi, Delhi, 110058
+  DIFF-PRED: 256 1st floor, block-c-2, janak·puri, Janakpuri B-1, Janakpuri B-1, West Delhi, Delhi, 110058
+  MARKS    :                                ^                                                             
+------------------------------------------------------------------------------------------
+
+[Kailash Aadhar_split_2_to_2_page1.jpg]  CER=0.010
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_back/Kailash Aadhar_split_2_to_2_page1.jpg
+  GT  : S/O Akbalanarayan Singh, Flot No,503-E, C-wing 108 Shiv Shreelan co op Hsg so, Mumbai, Maharashtra, 400089
+  PRED: S/O Akbalanarayan Singh, Flot No,503-E, C-wing 108 Shiv Shreejan co op Hsg so, Mumbai, Maharashtra 400089
+  DIFF-GT  : S/O Akbalanarayan Singh, Flot No,503-E, C-wing 108 Shiv Shreelan co op Hsg so, Mumbai, Maharashtra, 400089
+  DIFF-PRED: S/O Akbalanarayan Singh, Flot No,503-E, C-wing 108 Shiv Shreejan co op Hsg so, Mumbai, Maharashtra· 400089
+  MARKS    :                                                              ^                                    ^       
+------------------------------------------------------------------------------------------
+
+[KYC of Sonu Saluja_split_1_to_1_page1.jpg]  CER=0.010
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KYC of Sonu Saluja_split_1_to_1_page1.jpg
+  GT  : S/O: Yogendra Singh, 474, DURGA COLONY, KHAGRI ROAD, DANAPUR, Digha Diara, PO: Digha, DIST: Patna, Bihar - 800012
+  PRED: S/O: Yogendra Singh, 474, DURGA COLONY,KHAGRI ROAD, DANAPUR, Digha Diara, PO: Digha, DIST: Patna, Bihar - 800012
+  DIFF-GT  : S/O: Yogendra Singh, 474, DURGA COLONY, KHAGRI ROAD, DANAPUR, Digha Diara, PO: Digha, DIST: Patna, Bihar - 800012
+  DIFF-PRED: S/O: Yogendra Singh, 474, DURGA COLONY,·KHAGRI ROAD, DANAPUR, Digha Diara, PO: Digha, DIST: Patna, Bihar - 800012
+  MARKS    :                                        ^                                                                         
+------------------------------------------------------------------------------------------
+
+[PRADIP ADHAR_split_2_to_2_page1.jpg]  CER=0.010
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/PRADIP ADHAR_split_2_to_2_page1.jpg
+  GT  : S/O: Lakhmichand, 223, Samarth Nagar Society, Ahmedabad, Sardarnagar, Ahmedabad City, Ahmedabad, Gujarat - 382475
+  PRED: S/O: Lakshmichand, 223, Samarth Nagar Society, Ahmedabad, Sardarnagar, Ahmedabad City, Ahmedabad, Gujarat - 382475
+  DIFF-GT  : S/O: Lak·hmichand, 223, Samarth Nagar Society, Ahmedabad, Sardarnagar, Ahmedabad City, Ahmedabad, Gujarat - 382475
+  DIFF-PRED: S/O: Lakshmichand, 223, Samarth Nagar Society, Ahmedabad, Sardarnagar, Ahmedabad City, Ahmedabad, Gujarat - 382475
+  MARKS    :         ^                                                                                                         
+------------------------------------------------------------------------------------------
+
+[BP-30M28_20251017_113622_split_2_to_2_page1.jpg]  CER=0.010
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/BP-30M28_20251017_113622_split_2_to_2_page1.jpg
+  GT  : C/O: Jalal, 107, Kanniamman Koil Street, Periyanemmeli, Nemmeli, PO: Perur, DIST: Chengalpattu, Tamil Nadu - 603104
+  PRED: C/O: Jalal, 107, Kanniamman Koil Street, Periyannemmeli, Nemmeli, PO: Perur, DIST: Chengalpattu, Tamil Nadu - 603104
+  DIFF-GT  : C/O: Jalal, 107, Kanniamman Koil Street, Periya·nemmeli, Nemmeli, PO: Perur, DIST: Chengalpattu, Tamil Nadu - 603104
+  DIFF-PRED: C/O: Jalal, 107, Kanniamman Koil Street, Periyannemmeli, Nemmeli, PO: Perur, DIST: Chengalpattu, Tamil Nadu - 603104
+  MARKS    :                                                ^                                                                    
+------------------------------------------------------------------------------------------
+
+[KEERTHIVARMAN AADHAR_page1.jpg]  CER=0.008
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/KEERTHIVARMAN AADHAR_page1.jpg
+  GT  : S/O Selvamani, NO4/1, SAYAKARA STREET, PALLAMANGALAM, Tirukalukundram, PO: Tirukalukundram, DIST: Kancheepuram, Tamil Nadu - 603109
+  PRED: S/O Selvamani, NO4/1, SAYAKARA STREET, PALLAMANGALAM, Tirukalukundram, PO: Tirukalikundram, DIST: Kancheepuram, Tamil Nadu - 603109
+  DIFF-GT  : S/O Selvamani, NO4/1, SAYAKARA STREET, PALLAMANGALAM, Tirukalukundram, PO: Tirukalukundram, DIST: Kancheepuram, Tamil Nadu - 603109
+  DIFF-PRED: S/O Selvamani, NO4/1, SAYAKARA STREET, PALLAMANGALAM, Tirukalukundram, PO: Tirukalikundram, DIST: Kancheepuram, Tamil Nadu - 603109
+  MARKS    :                                                                                   ^                                                
+------------------------------------------------------------------------------------------
+
+[RUSHAL AADHAR_page1.jpg]  CER=0.008
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/RUSHAL AADHAR_page1.jpg
+  GT  : S/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambernath East, Ambarnath, Thane, Maharashtra - 421501
+  PRED: S/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambernath East, Ambernath, Thane, Maharashtra - 421501
+  DIFF-GT  : S/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambernath East, Ambarnath, Thane, Maharashtra - 421501
+  DIFF-PRED: S/O: Arun Phatak, 2/146, Shiv Shankar Apartment, Shiv Mandir Road, Shiv Ganga Nagar, Ambernath East, Ambernath, Thane, Maharashtra - 421501
+  MARKS    :                                                                                                         ^                                  
+------------------------------------------------------------------------------------------
+
+[Anand Aadhar_page1.jpg]  CER=0.008
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Anand Aadhar_page1.jpg
+  GT  : S/O: K . S . Venkataswamy, # 7, 5th Cross, Dayanand Layout, Ramamurthy Nagar, Bangalore North, PO: Doorvaninagar, DIST: Bengaluru, Karnataka - 560016
+  PRED: S/O: K . S . Venkatswamy, # 7, 5th Cross, Dayanand Layout, Ramamurthy Nagar, Bangalore North, PO: Doorvaninagar, DIST: Bengaluru, Karnataka - 560016
+  DIFF-GT  : S/O: K . S . Venkataswamy, # 7, 5th Cross, Dayanand Layout, Ramamurthy Nagar, Bangalore North, PO: Doorvaninagar, DIST: Bengaluru, Karnataka - 560016
+  DIFF-PRED: S/O: K . S . Venkat·swamy, # 7, 5th Cross, Dayanand Layout, Ramamurthy Nagar, Bangalore North, PO: Doorvaninagar, DIST: Bengaluru, Karnataka - 560016
+  MARKS    :                    ^                                                                                                                                 
+------------------------------------------------------------------------------------------
+
+[Hemang Aadhar Card_page1.jpg]  CER=0.007
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/Hemang Aadhar Card_page1.jpg
+  GT  : S/O: Manmohandas, 7, hatkesh society, sharda school lane,near ishwar bhuvan, navjivan, Ahmedabad City, PO: Navjivan, DIST: Ahmedabad, Gujarat - 380014
+  PRED: S/O: Manmohandas, 7, hatkesh society, sharda school lane, near ishwar bhuvan, navjivan, Ahmedabad City, PO: Navjivan, DIST: Ahmedabad, Gujarat - 380014
+  DIFF-GT  : S/O: Manmohandas, 7, hatkesh society, sharda school lane,·near ishwar bhuvan, navjivan, Ahmedabad City, PO: Navjivan, DIST: Ahmedabad, Gujarat - 380014
+  DIFF-PRED: S/O: Manmohandas, 7, hatkesh society, sharda school lane, near ishwar bhuvan, navjivan, Ahmedabad City, PO: Navjivan, DIST: Ahmedabad, Gujarat - 380014
+  MARKS    :                                                          ^                                                                                             
+------------------------------------------------------------------------------------------
+
+[SHILPA AADHAR_page1.jpg]  CER=0.007
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/SHILPA AADHAR_page1.jpg
+  GT  : W/O: Pankaj Mehta, Flat No 301, 30 th Floor, Jupiter Apartments, 41 Cuffe Parade, Near Taj President Hotel, Cuffe Parade, Mumbai, Mumbai, Maharashtra - 400005
+  PRED: W/O: Pankaj Mehta, Flat No 301, 30 th Floor,Jupiter Apartments, 41 Cuffe Parade, Near Taj President Hotel, Cuffe Parade, Mumbai, Mumbai, Maharashtra - 400005
+  DIFF-GT  : W/O: Pankaj Mehta, Flat No 301, 30 th Floor, Jupiter Apartments, 41 Cuffe Parade, Near Taj President Hotel, Cuffe Parade, Mumbai, Mumbai, Maharashtra - 400005
+  DIFF-PRED: W/O: Pankaj Mehta, Flat No 301, 30 th Floor,·Jupiter Apartments, 41 Cuffe Parade, Near Taj President Hotel, Cuffe Parade, Mumbai, Mumbai, Maharashtra - 400005
+  MARKS    :                                             ^                                                                                                                 
+------------------------------------------------------------------------------------------
+
+[DHAVEJI ADHAR_page1.jpg]  CER=0.006
+  /mnt/data/chaitanya/data/processed/aws/preprocessed_images/adhaar_card/DHAVEJI ADHAR_page1.jpg
+  GT  : S/O C V R Dhaveji, 1-61/MTL/A-103 The Fountainhead, Chaitanya Enclave, Khajaguda, Near Oakridge International School, Golconda, PO: Nanakramguda, DIST: Hyderabad, Telangana - 500008
+  PRED: S/O C V R Dhaveji, 1-61/MTUA-103 The Fountainhead, Chaitanya Enclave, Khajaguda, Near Oakridge International School, Golconda, PO: Nanakramguda, DIST: Hyderabad, Telangana - 500008
+  DIFF-GT  : S/O C V R Dhaveji, 1-61/MTL/A-103 The Fountainhead, Chaitanya Enclave, Khajaguda, Near Oakridge International School, Golconda, PO: Nanakramguda, DIST: Hyderabad, Telangana - 500008
+  DIFF-PRED: S/O C V R Dhaveji, 1-61/MTU·A-103 The Fountainhead, Chaitanya Enclave, Khajaguda, Near Oakridge International School, Golconda, PO: Nanakramguda, DIST: Hyderabad, Telangana - 500008
+  MARKS    :                           ^^                                                                                                                                                         
+------------------------------------------------------------------------------------------
