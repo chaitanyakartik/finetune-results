@@ -1,0 +1,11 @@
+pdf_id,total_pages,error_count,error_rate,fp_count,fn_count,doc_types_str
+871d16e9,1,1,1.0,0,1,{'photograph': 1}
+a74a84ed,1,1,1.0,0,1,{'itr_firm': 1}
+924a2cf0,3,2,0.6666666666666666,1,1,{'rent_agreement': 3}
+d9bd812e,3,2,0.6666666666666666,1,1,{'schedules_and_annexures': 3}
+8fd75ba1,2,1,0.5,0,1,{'combined_pnl_bs': 2}
+318a930f,2,1,0.5,1,0,{'tax_challan': 2}
+81b32c0b,2,1,0.5,1,0,{'shop_act_license': 2}
+c77162f9,3,1,0.3333333333333333,0,1,{'form_16': 3}
+21cdfb2c,54,14,0.25925925925925924,14,0,{'gstr_form': 54}
+499351f8,4,1,0.25,0,1,{'web_search_report': 4}

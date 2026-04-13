@@ -1,0 +1,122 @@
+SEGMENTATION BENCHMARK (ENHANCED UPSAMPLED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (18)
+----------------------------------------------------------------------
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p76.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p77.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/20580546_p70.png
+  [form_26AS                          ] /mnt/data/chaitanya/data/financial_data/images/form_26AS/cb17dadb_p2.png
+  [form_26AS                          ] /mnt/data/chaitanya/data/financial_data/images/form_26AS/cb17dadb_p3.png
+  [noc_financial_institution_docs     ] /mnt/data/chaitanya/data/financial_data/images/noc_financial_institution_docs/853d98a1_p1.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p49.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/26f15d98_p49.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p69.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/054d1524_p70.png
+  [emi_repayment_schedule             ] /mnt/data/chaitanya/data/financial_data/images/emi_repayment_schedule/ad0ee082_p2.png
+  [cibil_commercial                   ] /mnt/data/chaitanya/data/financial_data/images/cibil_commercial/81cde9d4_p8.png
+  [cibil_commercial                   ] /mnt/data/chaitanya/data/financial_data/images/cibil_commercial/81cde9d4_p9.png
+  [email                              ] /mnt/data/chaitanya/data/financial_data/images/email/b457f117_p1.png
+  [email                              ] /mnt/data/chaitanya/data/financial_data/images/email/b457f117_p2.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1dc53c92_p55.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1dc53c92_p56.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/236ae56b_p49.png
+
+BOUNDARY ERRORS (163)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (122 cases)
+    gstr_form                                × 22
+    property_ownership_docs                  × 14
+    schedules_and_annexures                  × 10
+    title_search_report                      × 10
+    rent_agreement                           × 6
+    tax_audit_3CB_3CD                        × 6
+    notes_to_accounts                        × 6
+    cibil_commercial                         × 4
+    web_search_report                        × 4
+    application_form                         × 3
+    gst_certificate                          × 3
+    other_financial_doc                      × 3
+    bank_statement_of_account_SOA            × 3
+    tax_audit_3CA_3CD                        × 3
+    village_form_7_12                        × 2
+
+  GT=True → PRED=False  (41 cases)
+    pnl_statement                            × 5
+    notes_to_accounts                        × 4
+    schedules_and_annexures                  × 4
+    municipal_mutation_record                × 4
+    balance_sheet                            × 2
+    other_financial_doc                      × 2
+    village_form_7_12                        × 2
+    property_revenue_docs                    × 2
+    aadhar_front                             × 2
+    other                                    × 1
+    cibil_individual                         × 1
+    voter_id_front                           × 1
+    photograph                               × 1
+    web_search_report                        × 1
+    gstr_form                                × 1
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (10 cases)
+----------------------------------------------------------------------
+  notes_to_accounts                        × 2
+  municipal_mutation_record                × 2
+  village_form_7_12                        × 1
+  property_revenue_docs                    × 1
+  schedules_and_annexures                  × 1
+  balance_sheet                            × 1
+  other_financial_doc                      × 1
+  aadhar_card                              × 1
+
+ERROR DISTRIBUTION BY WINDOW POSITION (1=anchor, 2-10=predicted)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     1       29     24      5
+     2       22      5     17
+     3       26     19      7
+     4       25     19      6
+     5       18     17      1
+     6       20     17      3
+     7       23     21      2
+
+ERROR DISTRIBUTION BY DOC POSITION (position within document segment)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     1       41      0     41
+     2       41     41      0
+     3       18     18      0
+     4       12     12      0
+     5        6      6      0
+     6        4      4      0
+     7        4      4      0
+     8        1      1      0
+     9        1      1      0
+    10        2      2      0
+    11        1      1      0
+    12        1      1      0
+    13        1      1      0
+    14        2      2      0
+    15        2      2      0
+    16        2      2      0
+    19        1      1      0
+    22        1      1      0
+    25        2      2      0
+    26        1      1      0
+    28        1      1      0
+    31        1      1      0
+    34        1      1      0
+    35        1      1      0
+    36        1      1      0
+    38        1      1      0
+    39        1      1      0
+    40        1      1      0
+    45        1      1      0
+    46        2      2      0
+    47        1      1      0
+    48        1      1      0
+    49        2      2      0
+    50        1      1      0
+    52        2      2      0
+    55        1      1      0

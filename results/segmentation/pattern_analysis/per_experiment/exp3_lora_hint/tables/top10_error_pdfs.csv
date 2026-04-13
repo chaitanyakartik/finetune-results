@@ -1,0 +1,11 @@
+pdf_id,total_pages,error_count,error_rate,fp_count,fn_count,doc_types_str
+871d16e9,1,1,1.0,0,1,{'photograph': 1}
+f9a663d9,2,1,0.5,1,0,{'income_sheet': 2}
+8fd75ba1,2,1,0.5,1,0,{'combined_pnl_bs': 2}
+81b32c0b,2,1,0.5,1,0,{'shop_act_license': 2}
+c77162f9,3,1,0.3333333333333333,0,1,{'form_16': 3}
+f9bb7ab3,4,1,0.25,0,1,{'form_26AS': 4}
+c2914140,4,1,0.25,1,0,{'rent_agreement': 4}
+21cdfb2c,54,13,0.24074074074074073,13,0,{'gstr_form': 54}
+24c2a5be,52,11,0.21153846153846154,0,11,"{'municipal_mutation_record': 25, 'village_form_7_12': 20, 'property_revenue_docs': 4, 'other': 2, 'aadhar_front': 1}"
+2073d3f1,60,12,0.2,12,0,{'property_ownership_docs': 60}

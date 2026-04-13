@@ -1,0 +1,84 @@
+SEGMENTATION BENCHMARK (ENHANCED UPSAMPLED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (1)
+----------------------------------------------------------------------
+  [certificate_of_incorporation       ] /mnt/data/chaitanya/data/financial_data/images/certificate_of_incorporation/48d93ca6_p2.png
+
+BOUNDARY ERRORS (77)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (38 cases)
+    gstr_form                                × 13
+    schedules_and_annexures                  × 4
+    title_search_report                      × 3
+    property_ownership_docs                  × 3
+    tax_audit_3CB_3CD                        × 1
+    shop_act_license                         × 1
+    gst_certificate                          × 1
+    combined_pnl_bs                          × 1
+    loan_sanction_letter                     × 1
+    passport_front                           × 1
+    tax_challan                              × 1
+    rent_agreement                           × 1
+    application_form                         × 1
+    web_search_report                        × 1
+    other_financial_doc                      × 1
+
+  GT=True → PRED=False  (39 cases)
+    schedules_and_annexures                  × 6
+    pnl_statement                            × 4
+    municipal_mutation_record                × 4
+    other_financial_doc                      × 3
+    notes_to_accounts                        × 3
+    village_form_7_12                        × 2
+    property_revenue_docs                    × 2
+    gstr_form                                × 2
+    other                                    × 1
+    title_search_report                      × 1
+    NACH_form                                × 1
+    passport_front                           × 1
+    cibil_individual                         × 1
+    rent_agreement                           × 1
+    balance_sheet                            × 1
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (5 cases)
+----------------------------------------------------------------------
+  municipal_mutation_record                × 2
+  passport_front                           × 1
+  other_financial_doc                      × 1
+  aadhar_back                              × 1
+
+ERROR DISTRIBUTION BY WINDOW POSITION (1=anchor, 2-10=predicted)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     2       16      4     12
+     3       30     19     11
+     4       18      9      9
+     5       13      6      7
+
+ERROR DISTRIBUTION BY DOC POSITION (position within document segment)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     1       39      0     39
+     2       12     12      0
+     3        2      2      0
+     4        2      2      0
+     6        1      1      0
+     7        2      2      0
+     8        1      1      0
+     9        1      1      0
+    14        1      1      0
+    15        1      1      0
+    16        1      1      0
+    19        2      2      0
+    26        1      1      0
+    28        1      1      0
+    30        1      1      0
+    31        2      2      0
+    37        1      1      0
+    40        1      1      0
+    43        2      2      0
+    50        1      1      0
+    52        1      1      0
+    55        1      1      0

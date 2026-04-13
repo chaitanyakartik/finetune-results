@@ -1,0 +1,11 @@
+pdf_id,total_pages,error_count,error_rate,fp_count,fn_count,doc_types_str
+c1927f9f,1,1,1.0,0,1,{'NACH_form': 1}
+433fb825,2,2,1.0,1,1,{'passport_front': 2}
+96522712,1,1,1.0,0,1,{'schedules_and_annexures': 1}
+e07ec6df,1,1,1.0,0,1,{'bank_cheque': 1}
+871d16e9,1,1,1.0,0,1,{'photograph': 1}
+4692549c,1,1,1.0,0,1,{'field_investigation_report': 1}
+baa671cd,1,1,1.0,0,1,{'aadhar_back': 1}
+924a2cf0,3,2,0.6666666666666666,1,1,{'rent_agreement': 3}
+42212c9f,2,1,0.5,0,1,{'cibil_individual': 2}
+8fd75ba1,2,1,0.5,1,0,{'combined_pnl_bs': 2}

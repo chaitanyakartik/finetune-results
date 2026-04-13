@@ -1,0 +1,16 @@
+KV CACHE REPORT (GPU memory allocated delta per batch)
+============================================================
+  Batches sampled : 1981
+  Mean delta      : 0.3 MB
+  Max delta       : 33.6 MB
+  Min delta       : 0.0 MB
+
+  Note: +1 reference image per window (when anchor ≠ segment start) increases input length vs. original.
+  Negative deltas indicate cache eviction between batches.
+
+  Delta distribution:
+    < -100MB             : 0
+    -100 to 0MB          : 0
+    0-500MB              : 1981
+    500MB-1GB            : 0
+    >1GB                 : 0

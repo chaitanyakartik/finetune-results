@@ -1,0 +1,119 @@
+SEGMENTATION BENCHMARK (ENHANCED UPSAMPLED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (1428)
+----------------------------------------------------------------------
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p2.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p3.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p4.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p5.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p6.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p7.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p8.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p9.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p10.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p11.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p12.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p13.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p14.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p15.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p16.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p17.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p18.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p19.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p20.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p21.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p22.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p23.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p24.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p25.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p26.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p27.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p28.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p29.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p30.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p31.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p32.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p33.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p34.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p35.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p36.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p37.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p38.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p39.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p40.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p41.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p42.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p43.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p44.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p45.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p46.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p47.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p48.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p49.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p50.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/04d69b2f_p51.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p2.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p3.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p4.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p5.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p6.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p7.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p8.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p9.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p10.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p11.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p12.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p13.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p14.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p15.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p16.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p17.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p18.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p19.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p20.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p21.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p22.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p23.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p24.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p25.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p26.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p27.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p28.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p29.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p30.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p31.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p32.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p33.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p34.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p35.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p36.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p37.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p38.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p39.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p40.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p41.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p42.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p43.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p44.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p45.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p46.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p47.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p48.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p49.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p50.png
+  [itr_individual_full                ] /mnt/data/chaitanya/data/financial_data/images/itr_individual_full/0100c5a7_p51.png
+
+BOUNDARY ERRORS (0)
+----------------------------------------------------------------------
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (0 cases)
+----------------------------------------------------------------------
+
+ERROR DISTRIBUTION BY WINDOW POSITION (1=anchor, 2-10=predicted)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+
+ERROR DISTRIBUTION BY DOC POSITION (position within document segment)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
