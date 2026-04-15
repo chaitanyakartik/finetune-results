@@ -1,0 +1,199 @@
+SEGMENTATION BENCHMARK (ENHANCED UPSAMPLED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (387)
+----------------------------------------------------------------------
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p6.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p7.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p8.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p9.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p10.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p11.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p12.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p13.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p14.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p15.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p16.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p17.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p18.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p19.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p20.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p21.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p22.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p23.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p24.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p25.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p26.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p27.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p28.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p29.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p30.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p31.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p32.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p33.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p34.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p35.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p36.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p37.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p38.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p39.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p40.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p41.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p42.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p43.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p44.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p45.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p46.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p47.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p48.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p49.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p50.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p51.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p52.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p53.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p54.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p55.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p56.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p57.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p58.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p59.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p60.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p61.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p62.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p63.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p64.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p65.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p66.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p67.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p68.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p69.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p70.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p71.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p72.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/12a65aa0_p73.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p2.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p3.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p4.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p5.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p6.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p7.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p8.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p9.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p10.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p11.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p12.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p13.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p14.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p15.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p16.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p17.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p18.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p19.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p20.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p21.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p22.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p23.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p24.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p25.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p26.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p27.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p28.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p29.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p30.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p31.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p32.png
+  [bank_statement                     ] /mnt/data/chaitanya/data/financial_data/images/bank_statement/1a74b1cc_p33.png
+
+BOUNDARY ERRORS (119)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (76 cases)
+    gstr_form                                × 25
+    itr_individual_full                      × 12
+    title_search_report                      × 6
+    schedules_and_annexures                  × 5
+    village_form_7_12                        × 3
+    notes_to_accounts                        × 2
+    other_financial_doc                      × 2
+    non_agriculture_order                    × 2
+    web_search_report                        × 2
+    tax_audit_3CA_3CD                        × 2
+    tax_audit_3CB_3CD                        × 1
+    property_ownership_docs                  × 1
+    passport_front                           × 1
+    cibil_individual                         × 1
+    application_form                         × 1
+
+  GT=True → PRED=False  (43 cases)
+    schedules_and_annexures                  × 6
+    pnl_statement                            × 4
+    municipal_mutation_record                × 4
+    village_form_7_12                        × 3
+    other_financial_doc                      × 2
+    notes_to_accounts                        × 2
+    gstr_form                                × 2
+    property_revenue_docs                    × 2
+    computation_sheet                        × 2
+    tax_audit_3CB_3CD                        × 1
+    balance_sheet                            × 1
+    emi_repayment_schedule                   × 1
+    other                                    × 1
+    aadhar_front                             × 1
+    passport_front                           × 1
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (5 cases)
+----------------------------------------------------------------------
+  municipal_mutation_record                × 2
+  passport_front                           × 1
+  other_financial_doc                      × 1
+  aadhar_back                              × 1
+
+ERROR DISTRIBUTION BY WINDOW POSITION (1=anchor, 2-10=predicted)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     2       37     19     18
+     3       37     26     11
+     4       20     13      7
+     5       25     18      7
+
+ERROR DISTRIBUTION BY DOC POSITION (position within document segment)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     1       43      0     43
+     2       18     18      0
+     3        6      6      0
+     4        2      2      0
+     6        3      3      0
+     7        2      2      0
+     8        1      1      0
+     9        2      2      0
+    10        1      1      0
+    11        1      1      0
+    13        1      1      0
+    14        4      4      0
+    15        1      1      0
+    16        1      1      0
+    17        1      1      0
+    19        2      2      0
+    22        2      2      0
+    23        1      1      0
+    26        2      2      0
+    28        1      1      0
+    30        2      2      0
+    31        2      2      0
+    35        1      1      0
+    36        1      1      0
+    38        1      1      0
+    40        1      1      0
+    42        1      1      0
+    43        3      3      0
+    44        1      1      0
+    45        1      1      0
+    47        1      1      0
+    50        1      1      0
+    52        2      2      0
+    54        1      1      0
+    55        2      2      0
+    56        1      1      0
+    57        1      1      0
+    58        1      1      0

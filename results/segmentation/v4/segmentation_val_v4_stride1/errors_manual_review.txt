@@ -1,0 +1,47 @@
+SEGMENTATION BENCHMARK (ENHANCED UPSAMPLED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (0)
+----------------------------------------------------------------------
+
+BOUNDARY ERRORS (39)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (21 cases)
+    schedules_and_annexures                  × 5
+    property_ownership_docs                  × 3
+    gstr_form                                × 2
+    non_agriculture_order                    × 2
+    other_financial_doc                      × 2
+    gst_certificate                          × 1
+    income_sheet                             × 1
+    certificate_of_incorporation             × 1
+    pnl_statement                            × 1
+    notes_to_accounts                        × 1
+    tax_audit_3CA_3CD                        × 1
+    title_search_report                      × 1
+
+  GT=True → PRED=False  (18 cases)
+    schedules_and_annexures                  × 4
+    municipal_mutation_record                × 3
+    village_form_7_12                        × 2
+    property_revenue_docs                    × 2
+    pnl_statement                            × 1
+    other                                    × 1
+    gst_certificate                          × 1
+    disbursement_request_letter              × 1
+    notes_to_accounts                        × 1
+    passport_front                           × 1
+    other_financial_doc                      × 1
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (0 cases)
+----------------------------------------------------------------------
+
+ERROR DISTRIBUTION BY WINDOW POSITION (1=anchor, 2-10=predicted)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     1       39     21     18
+
+ERROR DISTRIBUTION BY DOC POSITION (position within document segment)
+----------------------------------------------------------------------
+   pos   errors     FP     FN

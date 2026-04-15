@@ -1,0 +1,87 @@
+SEGMENTATION BENCHMARK (ENHANCED UPSAMPLED) — ERRORS REPORT
+======================================================================
+
+PARSE FAILURES (6)
+----------------------------------------------------------------------
+  [property_ownership_docs            ] /mnt/data/chaitanya/data/financial_data/images/property_ownership_docs/2073d3f1_p4.png
+  [certificate_of_incorporation       ] /mnt/data/chaitanya/data/financial_data/images/certificate_of_incorporation/48d93ca6_p2.png
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p14.png
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p15.png
+  [village_form_7_12                  ] /mnt/data/chaitanya/data/financial_data/images/village_form_7_12/24c2a5be_p16.png
+  [municipal_mutation_record          ] /mnt/data/chaitanya/data/financial_data/images/municipal_mutation_record/24c2a5be_p17.png
+
+BOUNDARY ERRORS (94)
+----------------------------------------------------------------------
+
+  GT=False → PRED=True  (47 cases)
+    gstr_form                                × 13
+    schedules_and_annexures                  × 4
+    title_search_report                      × 4
+    tax_audit_3CB_3CD                        × 2
+    property_ownership_docs                  × 2
+    cibil_individual                         × 2
+    non_agriculture_order                    × 2
+    web_search_report                        × 2
+    other_financial_doc                      × 1
+    passport_front                           × 1
+    tax_challan                              × 1
+    gst_accumn_report                        × 1
+    bank_statement                           × 1
+    email_conversation                       × 1
+    application_form                         × 1
+
+  GT=True → PRED=False  (47 cases)
+    schedules_and_annexures                  × 7
+    pnl_statement                            × 4
+    notes_to_accounts                        × 4
+    village_form_7_12                        × 3
+    municipal_mutation_record                × 3
+    other_financial_doc                      × 2
+    gstr_form                                × 2
+    cibil_individual                         × 2
+    property_revenue_docs                    × 2
+    aadhar_front                             × 2
+    computation_sheet                        × 2
+    web_search_report                        × 2
+    balance_sheet                            × 1
+    NACH_form                                × 1
+    passport_front                           × 1
+
+SAME-CLASS BOUNDARY ERRORS — FN where anchor_class == gt_label (5 cases)
+----------------------------------------------------------------------
+  municipal_mutation_record                × 2
+  passport_front                           × 1
+  other_financial_doc                      × 1
+  aadhar_back                              × 1
+
+ERROR DISTRIBUTION BY WINDOW POSITION (1=anchor, 2-10=predicted)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     2       24      6     18
+     3       30     18     12
+     4       19      9     10
+     5       21     14      7
+
+ERROR DISTRIBUTION BY DOC POSITION (position within document segment)
+----------------------------------------------------------------------
+   pos   errors     FP     FN
+     1       47      0     47
+     2       20     20      0
+     3        4      4      0
+     4        1      1      0
+     6        1      1      0
+     7        2      2      0
+     8        1      1      0
+     9        3      3      0
+    14        1      1      0
+    15        1      1      0
+    19        2      2      0
+    26        1      1      0
+    30        1      1      0
+    31        2      2      0
+    37        1      1      0
+    40        1      1      0
+    43        2      2      0
+    49        1      1      0
+    52        1      1      0
+    55        1      1      0
