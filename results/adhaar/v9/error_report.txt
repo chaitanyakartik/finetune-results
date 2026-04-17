@@ -1,0 +1,150 @@
+================================================================================
+GEMINI 3.1 PRO ERRORS — 6 total
+================================================================================
+
+================================================================================
+FIELD: address  (6 errors)
+================================================================================
+  File : file-5.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-5.jpg
+  GT   : S/O Chaudhary Ram, House Number W.P - 175, Ward No:14, Nariela Road,Badi Shahib, Jalandhar - 1, Jalandhar, Punjab - 144002
+  PRED : S/O Chaudhary Ram, House Number W.P - 125, Ward Number 47, Mohalla Road,Basti Sheikh, Jalandhar - I, Jalandhar, Punjab - 144002
+  Sim  : 0.426
+
+  File : file-6.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-6.jpg
+  GT   : C/O Balwinder Bajaj, House Number W.P - 125, West Number 49, Mandla Road,Baree, Shahid, Jalandhar - 1, Jalandhar, Punjab - 144002
+  PRED : S/O Balwinder Bajaj, House Number W.P - 125, Ward Number 47, Mohalla Road, Basti Sheikh, Jalandhar - I, Jalandhar, Punjab - 144002
+  Sim  : 0.471
+
+  File : file-7.pdf
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-7.pdf
+  GT   : D/O K Reddeppa, 4-419/7, Keelapatla Cross, Keelapatla Cross, Gangavaram, Chittoor, Andhra Pradesh - 517408
+  PRED : D/O K Reddeppa, 4-419/7, Keelapatla Cross, Keelapatla Cross, Gangavaram, Chittoor Andhra Pradesh - 517408
+  Sim  : 0.768
+
+  File : file-9.pdf
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-9.pdf
+  GT   : W/O K Reddeppa, 4-419/7, Keelapalla Cross, Keelapalla Cross, Gangavaram, Palamaner, Chittoor, Andhra Pradesh - 517408
+  PRED : W/O K Reddeppa 4-419/7 Keelapatla Cross Keelapatla Cross Gangavaram Palamaner,Chittoor Andhra Pradesh - 517408
+  Sim  : 0.176
+
+  File : file-21.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-21.jpg
+  GT   : 7-22/B Godavarru, Kankipadu Krishna, Andhra Pradesh 521151
+  PRED : S/O Ramesh, 7-22/B, Godavarru, 7-22/a Godavarru, Kankipadu Krishna, Andhra Pradesh 521151
+  Sim  : 0.014
+
+  File : file-25.pdf
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-25.pdf
+  GT   : 4/6 police line, bhandari hoshpital ke pichhe vijay nagar, Indore, Vijay Nagar Indore Indore, Madhya Pradesh, 452010
+  PRED : D/O: Rampal Pal, 4/6, police line, bhandari hoshpital ke pichhe vijay nagar, Indore, Vijay Nagar Indore Indore, Madhya Pradesh 452010
+  Sim  : 0.032
+
+
+================================================================================
+QWEN3.5 9B EXP2 ERRORS — 14 total
+================================================================================
+
+================================================================================
+FIELD: name  (4 errors)
+================================================================================
+  File : file-5.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-5.jpg
+  GT   : Balwinder Kumar
+  PRED : Babulal Kumar
+  Sim  : 0.143
+
+  File : file-6.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-6.jpg
+  GT   : Varun Bajaj
+  PRED : Varun Belal
+  Sim  : 0.727
+
+  File : file-11.pdf
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-11.pdf
+  GT   : Syed Imtiaz Hussain
+  PRED : Syed Imliaz Hussain
+  Sim  : 0.947
+
+  File : file-14.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-14.jpg
+  GT   : Syed Ejaaz Hussain
+  PRED : Syed Ejaz Hussain
+  Sim  : 0.514
+
+================================================================================
+FIELD: dateOfBirth  (2 errors)
+================================================================================
+  File : file-6.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-6.jpg
+  GT   : 19/10/1998
+  PRED : 19/10/1996
+  Sim  : 0.900
+
+  File : file-13.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-13.jpg
+  GT   : 17/07/2001
+  PRED : None
+  Sim  : 0.000
+
+================================================================================
+FIELD: gender  (1 errors)
+================================================================================
+  File : file-13.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-13.jpg
+  GT   : Male
+  PRED : None
+  Sim  : 0.000
+
+================================================================================
+FIELD: address  (5 errors)
+================================================================================
+  File : file-3.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-3.jpg
+  GT   : W/O Subhash Agarwal, loha mandi, 39/198-b karwan loha mandi, agra, Agra, Uttar Pradesh, 282002
+  PRED : W/O Subhash Agarwal, baba mandi, 39198-6 kanwar baba mandi, agrn, Agn, Uda Pradesh, 262002
+  Sim  : 0.348
+
+  File : file-13.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-13.jpg
+  GT   : S/O: Syed Imtiaz Hussain, 7-4-387, navajeevan nagar/feroz guda, near ganesh temple, kukat pally, VTC: AAAA, Sub District: For New VTC, District: Hyderabad, State: Andhra Pradesh, PIN Code: 500072.
+  PRED : S/O: Syed Imtiaz Hussain, 7-4-387, navajeevan nagar/heroz guda, near gannath temple, kushal pally, VTC: AAAA, Sub District: For New VTC, District: Hyderabad, State: Andhra Pradesh, PIN Code: 500072
+  Sim  : 0.387
+
+  File : file-14.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-14.jpg
+  GT   : S/O: Syed Ahmed Hussain, 7-4-387, Navajeevan Nagar Colony, Ferozguda, Tirumalagiri, Hyderabad, Telangana - 500011
+  PRED : S/O: Syed Ejaz Hussain, 7-4-38, Ramjibhan Nagar Colony, Ferozepur, Tirumalgiri, Hyderabad, Telangana - 500011
+  Sim  : 0.099
+
+  File : file-15.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-15.jpg
+  GT   : S/O: Syed Ahmad Hussain, 7-4-387 navajeevan nagar/feroz guda, near ganesh temple kukat pally, AAAA, For New VTC Hyderabad, Andhra Pradesh 500072
+  PRED : S/O: Syed Ahmad Hussain, 7-4-387 navajeevan nagar/feroz guda near garash temple kukat pally, AAAAA
+  Sim  : 0.537
+
+  File : file-20.pdf
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-20.pdf
+  GT   : 165, 3NO, NATUNGRAM, MOREPUKUR, VTC: Rishra M, PO: Morepukur, Sub District: Hooghly, District: Hooghly, State: West Bengal,
+  PRED : 165, 3NO, NATUNGRAM, MOREPUKUR, VTC: Rishra M, PO: Morepukur, Sub District: Hooghly, District: Hooghly, State: West Bengal, PIN Code: 712250
+  Sim  : 0.935
+
+================================================================================
+FIELD: pincode  (1 errors)
+================================================================================
+  File : file-3.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-3.jpg
+  GT   : 282002
+  PRED : 262002
+  Sim  : 0.833
+
+================================================================================
+FIELD: mobileNumber  (1 errors)
+================================================================================
+  File : file-13.jpg
+  Path : /mnt/data/chaitanya/data/raw/aadhar30_holdout_pranav/file-13.jpg
+  GT   : 8247683198
+  PRED : 8247603199
+  Sim  : 0.800
+
